@@ -22,6 +22,10 @@ if ! command -v pueue >/dev/null 2>&1; then
   echo "pueue コマンドは存在しません。インストールします。"
   brew install pueue
 fi
+if ! command -v tag >/dev/null 2>&1; then
+  echo "tag コマンドは存在しません。インストールします。"
+  brew install tag
+fi
 
 #backup
 mv ./ConvertComic.workflow  ./ConvertComicOriginal.workflow
