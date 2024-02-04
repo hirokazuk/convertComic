@@ -1,0 +1,617 @@
+ 1 15 15:15:43 Error: Failed to create pid file.
+ 1 15 15:15:43 
+ 1 15 15:15:43 Caused by:
+ 1 15 15:15:43     Pid file already exists and another daemon seems to be running.
+ 1 15 15:15:43     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 15:15:43 ESCAPED_ARGS_FOR_PUEUE:'/Volumes/comic/JDown/[アンソロジー] 葬送のフリーレン アンソロジー～異なる旅を楽しむ魔法～ 葬送のフリーレン　アンソロジー/Frieren_Beyond_Journey's_End.zip' '/Volumes/comic/JDown/[黒木部長] ひのきのダンジョン/Hinoki_No_Dan_John_ch01-07.zip'
+ 1 15 15:15:43 Pueued is now running in the background
+ 1 15 15:15:43 Group "cc_spread" already exists
+ 1 15 15:15:43 New task added (id 41).
+ 1 15 15:15:43  1 15 15:15:43 Error: Failed to create pid file.
+ 1 15 15:15:43  1 15 15:15:43 
+ 1 15 15:15:43  1 15 15:15:43 Caused by:
+ 1 15 15:15:43  1 15 15:15:43     Pid file already exists and another daemon seems to be running.
+ 1 15 15:15:43  1 15 15:15:43     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 15:21:03 -: line 17: //ESCAPED_ARGS_FOR_PUEUE=: No such file or directory
+ 1 15 15:21:03 -: -c: line 18: syntax error near unexpected token `do'
+ 1 15 15:21:03 -: -c: line 18: `//for ARG in "$@"; do'
+ 1 15 15:21:03  1 15 15:21:03 -: line 17: //ESCAPED_ARGS_FOR_PUEUE=: No such file or directory
+ 1 15 15:21:03  1 15 15:21:03 -: -c: line 18: syntax error near unexpected token `do'
+ 1 15 15:21:03  1 15 15:21:03 -: -c: line 18: `//for ARG in "$@"; do'
+ 1 15 15:21:45 Error: Failed to create pid file.
+ 1 15 15:21:45 
+ 1 15 15:21:45 Caused by:
+ 1 15 15:21:45     Pid file already exists and another daemon seems to be running.
+ 1 15 15:21:45     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 15:21:45 error: invalid UTF-8 was detected in one or more arguments
+ 1 15 15:21:45 
+ 1 15 15:21:45 Usage: pueue add [OPTIONS] <COMMAND>...
+ 1 15 15:21:45 
+ 1 15 15:21:45 For more information, try '--help'.
+ 1 15 15:21:45 ESCAPED_ARGS_FOR_PUEUE:'$'/Volumes/comic/JDown/[�\202��\203��\202��\203��\202��\202\231�\203�] �\221��\200\201�\201��\203\225�\203��\203��\203��\203� �\202��\203��\202��\203��\202��\202\231�\203��\236�\225��\201��\202\213�\227\205�\202\222楽�\201\227�\202\200�\224�\225�\236 �\221��\200\201�\201��\203\225�\203��\203��\203��\203��\200\200�\202��\203��\202��\203��\202��\202\231�\203�/Frieren_Beyond_Journey\'s_End.zip'' '$'/Volumes/comic/JDown/[�\222�\234��\203��\225�] �\201��\201��\201\215�\201��\202��\202\231�\203��\202��\202\231�\203��\203�/Hinoki_No_Dan_John_ch01-07.zip''
+ 1 15 15:21:45 Pueued is now running in the background
+ 1 15 15:21:45 Group "cc_spread" already exists
+ 1 15 15:21:45  1 15 15:21:45 Error: Failed to create pid file.
+ 1 15 15:21:45  1 15 15:21:45 
+ 1 15 15:21:45  1 15 15:21:45 Caused by:
+ 1 15 15:21:45  1 15 15:21:45     Pid file already exists and another daemon seems to be running.
+ 1 15 15:21:45  1 15 15:21:45     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 15:21:45  1 15 15:21:45 error: invalid UTF-8 was detected in one or more arguments
+ 1 15 15:21:45  1 15 15:21:45 
+ 1 15 15:21:45  1 15 15:21:45 Usage: pueue add [OPTIONS] <COMMAND>...
+ 1 15 15:21:45  1 15 15:21:45 
+ 1 15 15:21:45  1 15 15:21:45 For more information, try '--help'.
+ 1 15 15:24:03 ESCAPED_ARGS_FOR_PUEUE:'/Volumes/comic/JDown/[アンソロジー] 葬送のフリーレン アンソロジー～異なる旅を楽しむ魔法～ 葬送のフリーレン　アンソロジー/Frieren_Beyond_Journey\'\\'\'s_End.zip' '/Volumes/comic/JDown/[黒木部長] ひのきのダンジョン/Hinoki_No_Dan_John_ch01-07.zip'
+ 1 15 15:24:03 Pueued is now running in the background
+ 1 15 15:24:03 Group "cc_spread" already exists
+ 1 15 15:24:03 New task added (id 42).
+ 1 15 15:24:03 Error: Failed to create pid file.
+ 1 15 15:24:03 
+ 1 15 15:24:03 Caused by:
+ 1 15 15:24:03     Pid file already exists and another daemon seems to be running.
+ 1 15 15:24:03     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 15:24:03  1 15 15:24:03 Error: Failed to create pid file.
+ 1 15 15:24:03  1 15 15:24:03 
+ 1 15 15:24:03  1 15 15:24:03 Caused by:
+ 1 15 15:24:03  1 15 15:24:03     Pid file already exists and another daemon seems to be running.
+ 1 15 15:24:03  1 15 15:24:03     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 15:24:41 ESCAPED_ARGS_FOR_PUEUE:'/Volumes/comic/JDown/[アンソロジー] 葬送のフリーレン アンソロジー～異なる旅を楽しむ魔法～ 葬送のフリーレン　アンソロジー/Frieren_Beyond_Journey\'\\'\'s_End.zip' '/Volumes/comic/JDown/[黒木部長] ひのきのダンジョン/Hinoki_No_Dan_John_ch01-07.zip'
+ 1 15 15:24:41 Error: Failed to create pid file.
+ 1 15 15:24:41 
+ 1 15 15:24:41 Caused by:
+ 1 15 15:24:41     Pid file already exists and another daemon seems to be running.
+ 1 15 15:24:41     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 15:24:41 Pueued is now running in the background
+ 1 15 15:24:41 Group "cc_spread" already exists
+ 1 15 15:24:41 New task added (id 36).
+ 1 15 15:24:41  1 15 15:24:41 Error: Failed to create pid file.
+ 1 15 15:24:41  1 15 15:24:41 
+ 1 15 15:24:41  1 15 15:24:41 Caused by:
+ 1 15 15:24:41  1 15 15:24:41     Pid file already exists and another daemon seems to be running.
+ 1 15 15:24:41  1 15 15:24:41     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 15:27:01 Error: Failed to create pid file.
+ 1 15 15:27:01 
+ 1 15 15:27:01 Caused by:
+ 1 15 15:27:01     Pid file already exists and another daemon seems to be running.
+ 1 15 15:27:01     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 15:27:01 ESCAPED_ARGS_FOR_PUEUE:'/Volumes/comic/JDown/[アンソロジー] 葬送のフリーレン アンソロジー～異なる旅を楽しむ魔法～ 葬送のフリーレン　アンソロジー/Frieren_Beyond_Journey\\'s_End.zip' '/Volumes/comic/JDown/[黒木部長] ひのきのダンジョン/Hinoki_No_Dan_John_ch01-07.zip'
+ 1 15 15:27:01 Pueued is now running in the background
+ 1 15 15:27:01 Group "cc_spread" already exists
+ 1 15 15:27:01 New task added (id 36).
+ 1 15 15:27:01  1 15 15:27:01 Error: Failed to create pid file.
+ 1 15 15:27:01  1 15 15:27:01 
+ 1 15 15:27:01  1 15 15:27:01 Caused by:
+ 1 15 15:27:01  1 15 15:27:01     Pid file already exists and another daemon seems to be running.
+ 1 15 15:27:01  1 15 15:27:01     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 15:29:43 Error: Failed to create pid file.
+ 1 15 15:29:43 
+ 1 15 15:29:43 Caused by:
+ 1 15 15:29:43     Pid file already exists and another daemon seems to be running.
+ 1 15 15:29:43     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 15:29:43 ESCAPED_ARGS_FOR_PUEUE:'/Volumes/comic/JDown/[アンソロジー] 葬送のフリーレン アンソロジー～異なる旅を楽しむ魔法～ 葬送のフリーレン　アンソロジー/Frieren_Beyond_Journey\\\'s_End.zip' '/Volumes/comic/JDown/[黒木部長] ひのきのダンジョン/Hinoki_No_Dan_John_ch01-07.zip'
+ 1 15 15:29:43 Pueued is now running in the background
+ 1 15 15:29:43 Group "cc_spread" already exists
+ 1 15 15:29:43 New task added (id 37).
+ 1 15 15:29:43  1 15 15:29:43 Error: Failed to create pid file.
+ 1 15 15:29:43  1 15 15:29:43 
+ 1 15 15:29:43  1 15 15:29:43 Caused by:
+ 1 15 15:29:43  1 15 15:29:43     Pid file already exists and another daemon seems to be running.
+ 1 15 15:29:43  1 15 15:29:43     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 16:51:38 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[アンソロジー] 葬送のフリーレン アンソロジー～異なる旅を楽しむ魔法～ 葬送のフリーレン　アンソロジー/Frieren_Beyond_Journey's_End.zip" "/Volumes/comic/JDown/[黒木部長] ひのきのダンジョン/Hinoki_No_Dan_John_ch01-07.zip"
+ 1 15 16:51:38 Pueued is now running in the background
+ 1 15 16:51:38 Group "cc_spread" already exists
+ 1 15 16:51:38 New task added (id 36).
+ 1 15 16:51:38 Error: Failed to create pid file.
+ 1 15 16:51:38 
+ 1 15 16:51:38 Caused by:
+ 1 15 16:51:38     Pid file already exists and another daemon seems to be running.
+ 1 15 16:51:38     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 16:51:38  1 15 16:51:38 Error: Failed to create pid file.
+ 1 15 16:51:38  1 15 16:51:38 
+ 1 15 16:51:38  1 15 16:51:38 Caused by:
+ 1 15 16:51:38  1 15 16:51:38     Pid file already exists and another daemon seems to be running.
+ 1 15 16:51:38  1 15 16:51:38     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 16:56:26 Error: Failed to create pid file.
+ 1 15 16:56:26 
+ 1 15 16:56:26 Caused by:
+ 1 15 16:56:26     Pid file already exists and another daemon seems to be running.
+ 1 15 16:56:26     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 16:56:26 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[アンソロジー] 葬送のフリーレン アンソロジー～異なる旅を楽しむ魔法～ 葬送のフリーレン　アンソロジー/Frieren_Beyond_Journey's_End.zip" "/Volumes/comic/JDown/[阿東里枝] 転生マオちゃん/Tensei_Maochan_Tatchan_to_to_makun.zip"
+ 1 15 16:56:26 Pueued is now running in the background
+ 1 15 16:56:26 Group "cc_spread" already exists
+ 1 15 16:56:26 New task added (id 39).
+ 1 15 16:56:26  1 15 16:56:26 Error: Failed to create pid file.
+ 1 15 16:56:26  1 15 16:56:26 
+ 1 15 16:56:26  1 15 16:56:26 Caused by:
+ 1 15 16:56:26  1 15 16:56:26     Pid file already exists and another daemon seems to be running.
+ 1 15 16:56:26  1 15 16:56:26     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 17:40:53 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[やちうお] 乙女ゲームの悪役令嬢に転生したけどフォロワーが布教してた知識しかない/Otome_Game_No_Akuyaku_Reijo_v01-02s.zip" "/Volumes/comic/JDown/[井上桃太×Ｐｌｏｔｔ] カレコレ/Karekore_v01-04.zip" "/Volumes/comic/JDown/[ほーち×桐野いつき×一ノ瀬ランド] 天使をイカせてアイテムゲット！！ 絶頂ガチャでダンジョン攻略！/Tenshi_Wo_Ikasete_Item_v01s.zip"
+ 1 15 17:40:53 Pueued is now running in the background
+ 1 15 17:40:53 Group "cc_spread" already exists
+ 1 15 17:40:53 New task added (id 42).
+ 1 15 17:40:53 Error: Failed to create pid file.
+ 1 15 17:40:53 
+ 1 15 17:40:53 Caused by:
+ 1 15 17:40:53     Pid file already exists and another daemon seems to be running.
+ 1 15 17:40:53     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 17:40:53  1 15 17:40:53 Error: Failed to create pid file.
+ 1 15 17:40:53  1 15 17:40:53 
+ 1 15 17:40:53  1 15 17:40:53 Caused by:
+ 1 15 17:40:53  1 15 17:40:53     Pid file already exists and another daemon seems to be running.
+ 1 15 17:40:53  1 15 17:40:53     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 17:42:54 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[YUYA×TicaTica] もう一度、光の中へ/Mou_Ichido_Hikari_no_Naka_e_v01.zip"
+ 1 15 17:42:54 Pueued is now running in the background
+ 1 15 17:42:54 Group "cc_spread" already exists
+ 1 15 17:42:54 New task added (id 46).
+ 1 15 17:42:54 Error: Failed to create pid file.
+ 1 15 17:42:54 
+ 1 15 17:42:54 Caused by:
+ 1 15 17:42:54     Pid file already exists and another daemon seems to be running.
+ 1 15 17:42:54     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 17:42:54  1 15 17:42:54 Error: Failed to create pid file.
+ 1 15 17:42:54  1 15 17:42:54 
+ 1 15 17:42:54  1 15 17:42:54 Caused by:
+ 1 15 17:42:54  1 15 17:42:54     Pid file already exists and another daemon seems to be running.
+ 1 15 17:42:54  1 15 17:42:54     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 17:45:21 Error: Failed to create pid file.
+ 1 15 17:45:21 
+ 1 15 17:45:21 Caused by:
+ 1 15 17:45:21     Pid file already exists and another daemon seems to be running.
+ 1 15 17:45:21     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 17:45:21 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[LA軍×中島零] ダメスキル【自動機能】が覚醒しました/Dame_Sukiru_oto_Modo_ga_Kakusei_v09.zip" "/Volumes/comic/JDown/[伏瀬×川上泰樹] 転生したらスライムだった件/Tenseishitara_suraimudattaken_v25.zip" "/Volumes/comic/JDown/[ジャスミン・ギュ] ケンシロウによろしく/Kenshiro_ni_Yoroshiku_v08.zip" "/Volumes/comic/JDown/[四葉夕卜×小川亮] パリピ孔明/Paripi_Komei_v01-09b.zip" "/Volumes/comic/JDown/[四葉夕卜×小川亮] パリピ孔明/Paripi_Komei_v10.zip" "/Volumes/comic/JDown/[四葉夕卜×小川亮] パリピ孔明/Paripi_Komei_v11.zip" "/Volumes/comic/JDown/[四葉夕卜×小川亮] パリピ孔明/Paripi_Komei_v12b.zip" "/Volumes/comic/JDown/[四葉夕卜×小川亮] パリピ孔明/Paripi_Komei_v13.zip" "/Volumes/comic/JDown/[四葉夕卜×小川亮] パリピ孔明/Paripi_Komei_v14.zip" "/Volumes/comic/JDown/[四葉夕卜×小川亮] パリピ孔明/Paripi_Komei_v15b.zip" "/Volumes/comic/JDown/[四葉夕卜×小川亮] パリピ孔明/Paripi_Komei_v16.zip" "/Volumes/comic/JDown/[真綿×三木なずな] レベル１だけどユニークスキルで最強です/Level1dakedoUnique v03-04s.zip" "/Volumes/comic/JDown/[真綿×三木なずな] レベル１だけどユニークスキルで最強です/Level1dakedoUnique v05s.zip" "/Volumes/comic/JDown/[真綿×三木なずな] レベル１だけどユニークスキルで最強です/Level1dakedoUnique v07s.zip" "/Volumes/comic/JDown/[真綿×三木なずな] レベル１だけどユニークスキルで最強です/Level1dakedoUnique_v08-09.zip" "/Volumes/comic/JDown/[真綿×三木なずな] レベル１だけどユニークスキルで最強です/Level1dakedoUnique_v02.zip" "/Volumes/comic/JDown/[真綿×三木なずな] レベル１だけどユニークスキルで最強です/Level1dakedoUnique_v11.zip" "/Volumes/comic/JDown/[真綿×三木なずな] レベル１だけどユニークスキルで最強です/Level1dakedoUnique_v12.zip" "/Volumes/comic/JDown/[真綿×三木なずな] レベル１だけどユニークスキルで最強です/Level1dakedoUnique_v13.zip" "/Volumes/comic/JDown/[吉村英明x木嶋隆太] 不遇職『鍛冶師』だけど最強です/Fugushoku_Kajishi_Dakedo_v01-07b.zip" "/Volumes/comic/JDown/[吉村英明x木嶋隆太] 不遇職『鍛冶師』だけど最強です/Fugushoku_Kajishi_Dakedo_v11.zip" "/Volumes/comic/JDown/[山川直輝×奈央晃徳] 100万の命の上に俺は立っている/100man_no_Inochi_no_ue_ni_ore_v18.zip" "/Volumes/comic/JDown/[山川直輝×奈央晃徳] 100万の命の上に俺は立っている/100man_no_Inochi_no_ue_ni_ore_v17.zip" "/Volumes/comic/JDown/[山川直輝×奈央晃徳] 100万の命の上に俺は立っている/100man_no_Inochi_no_ue_ni_ore_v14-16.zip" "/Volumes/comic/JDown/[山川直輝×奈央晃徳] 100万の命の上に俺は立っている/100man_no_Inochi_no_ue_ni_ore_wa_tatte_iru_v13s.zip" "/Volumes/comic/JDown/[山川直輝×奈央晃徳] 100万の命の上に俺は立っている/100man no Inochi no ue ni ore wa tatte iru v12.zip" "/Volumes/comic/JDown/[山川直輝×奈央晃徳] 100万の命の上に俺は立っている/100man no Inochi no ue ni ore wa tatte iru v11.zip" "/Volumes/comic/JDown/[山川直輝×奈央晃徳] 100万の命の上に俺は立っている/100man no Inochi no ue ni ore wa tatte iru v10.zip" "/Volumes/comic/JDown/[山川直輝×奈央晃徳] 100万の命の上に俺は立っている/100man_no_Inochi_no_ue_ni_ore_wa_tatte_iru_v09.zip" "/Volumes/comic/JDown/[山川直輝×奈央晃徳] 100万の命の上に俺は立っている/100man no Inochi no ue ni ore wa tatte iru v08.zip" "/Volumes/comic/JDown/[山川直輝×奈央晃徳] 100万の命の上に俺は立っている/100man no Inochi no ue ni ore wa tatte iru v07.zip" "/Volumes/comic/JDown/[山川直輝×奈央晃徳] 100万の命の上に俺は立っている/100man no Inochi no ue ni ore wa tatte iru v06.zip" "/Volumes/comic/JDown/[山川直輝×奈央晃徳] 100万の命の上に俺は立っている/100man no Inochi no ue ni ore wa tatte iru v05.zip" "/Volumes/comic/JDown/[山川直輝×奈央晃徳] 100万の命の上に俺は立っている/100man no Inochi no ue ni ore wa tatte iru v04.zip" "/Volumes/comic/JDown/[山川直輝×奈央晃徳] 100万の命の上に俺は立っている/100man no Inochi no ue ni ore wa tatte iru v03.zip" "/Volumes/comic/JDown/[山川直輝×奈央晃徳] 100万の命の上に俺は立っている/100man no Inochi no ue ni ore wa tatte iru v02.zip" "/Volumes/comic/JDown/[山川直輝×奈央晃徳] 100万の命の上に俺は立っている/100man no Inochi no ue ni ore wa tatte iru v01.zip" "/Volumes/comic/JDown/[石後千鳥x鬱沢色素] 二周目チートの転生魔導士/Nishume_Chito_no_Tensei_Madoshi_v02s.zip" "/Volumes/comic/JDown/[石後千鳥x鬱沢色素] 二周目チートの転生魔導士/Nishume Chito no Tensei Madoshi v01s.zip" "/Volumes/comic/JDown/[石後千鳥x鬱沢色素] 二周目チートの転生魔導士/Nishume_Chito_no_Tensei_Madoshi_v04.zip"
+ 1 15 17:45:21 Pueued is now running in the background
+ 1 15 17:45:21  1 15 17:45:21 Error: Failed to create pid file.
+ 1 15 17:45:21  1 15 17:45:21 
+ 1 15 17:45:21  1 15 17:45:21 Caused by:
+ 1 15 17:45:21  1 15 17:45:21     Pid file already exists and another daemon seems to be running.
+ 1 15 17:45:21  1 15 17:45:21     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 17:45:21 Group "cc_spread" already exists
+ 1 15 17:45:21 New task added (id 48).
+ 1 15 17:46:27 Error: Failed to create pid file.
+ 1 15 17:46:27 
+ 1 15 17:46:27 Caused by:
+ 1 15 17:46:27     Pid file already exists and another daemon seems to be running.
+ 1 15 17:46:27     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 17:46:27 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[蒼月浩二×星野まご] 劣等紋の超越ヒーラー～世界最強の回復術師による異世界無双～/Rettomon_no_choetsu_hira_Sekai_v07.zip" "/Volumes/comic/JDown/[門司雪×アルト×夕薙] 味方が弱すぎて補助魔法に徹していた宮廷魔法師､追放されて最強を目指す/Mikata_ga_Yowasugite_Hojo_Maho_v10.zip" "/Volumes/comic/JDown/[門司雪×アルト×夕薙] 味方が弱すぎて補助魔法に徹していた宮廷魔法師､追放されて最強を目指す/Mikata_ga_Yowasugite_Hojo_Maho_v09.zip" "/Volumes/comic/JDown/[門司雪×アルト×夕薙] 味方が弱すぎて補助魔法に徹していた宮廷魔法師､追放されて最強を目指す/Mikata_ga_Yowasugite_Hojo_Maho_v08b.zip" "/Volumes/comic/JDown/[門司雪×アルト×夕薙] 味方が弱すぎて補助魔法に徹していた宮廷魔法師､追放されて最強を目指す/Mikata_ga_Yowasugite_Hojo_Maho_v07.zip" "/Volumes/comic/JDown/[門司雪×アルト×夕薙] 味方が弱すぎて補助魔法に徹していた宮廷魔法師､追放されて最強を目指す/Mikata_ga_Yowasugite_Hojo_Maho_v06.zip" "/Volumes/comic/JDown/[門司雪×アルト×夕薙] 味方が弱すぎて補助魔法に徹していた宮廷魔法師､追放されて最強を目指す/Mikata_ga_Yowasugite_Hojo_Maho_v05.zip" "/Volumes/comic/JDown/[門司雪×アルト×夕薙] 味方が弱すぎて補助魔法に徹していた宮廷魔法師､追放されて最強を目指す/Mikata_ga_Yowasugite_Hojo_Maho_v04.zip" "/Volumes/comic/JDown/[門司雪×アルト×夕薙] 味方が弱すぎて補助魔法に徹していた宮廷魔法師､追放されて最強を目指す/Mikata_ga_Yowasugite_Hojo_Maho_v01-03b.zip" "/Volumes/comic/JDown/[矢田恵梨子] アカネノネ/Akane_No_Ne_v06.zip" "/Volumes/comic/JDown/[龍牙翔×澄守彩] 俺の鑑定スキルがチートすぎて ～伝説の勇者を読み“盗り”最強へ～/Ore no Kantei Sukiru ga Chito v01-02s.zip" "/Volumes/comic/JDown/[龍牙翔×澄守彩] 俺の鑑定スキルがチートすぎて ～伝説の勇者を読み“盗り”最強へ～/Ore_no_Kantei_Sukiru_ga_Chito_v03s.zip" "/Volumes/comic/JDown/[龍牙翔×澄守彩] 俺の鑑定スキルがチートすぎて ～伝説の勇者を読み“盗り”最強へ～/Ore_no_Kantei_Sukiru_ga_Chito_v04.zip" "/Volumes/comic/JDown/[龍牙翔×澄守彩] 俺の鑑定スキルがチートすぎて ～伝説の勇者を読み“盗り”最強へ～/Ore_no_Kantei_Sukiru_ga_Chito_v05.zip" "/Volumes/comic/JDown/[ぎばちゃん] ボロボロのエルフさんを幸せにする薬売りさん カラー版/Boroboro_no_Elf-san_o_Shiawase.zip" "/Volumes/comic/JDown/[こげめ×えんじ] 悪人面したB級冒険者 主人公とその幼馴染たちのパパになる/Akunin_Menshita_B_Kyu_Boken_v01A.zip" "/Volumes/comic/JDown/[さよなか×神無フム×珀石碧] アストラル・オンライン/Asutoraru_onrain_v01.zip" "/Volumes/comic/JDown/[トボ×浅名ゆうな×あき] 死の森の魔女は愛を知らない/Shi_no_mori_no_majo_wa_ai_v01A.zip" "/Volumes/comic/JDown/[クリムゾン] 蒼い世界の中心で 完全版/Aoi_sekai_no_chushin_de_Kanzenban_v01-03.zip" "/Volumes/comic/JDown/[六守創] 異種族異文化交流記/Ishu_Zoku_Ibunka_Koryu_Ki_v01-02.zip" "/Volumes/comic/JDown/[友藤結] 白兎と獣の王子～贄姫と獣の王 スピンオフ～　/Niehime_to_kemono_no_o_supin_v01-04.zip" "/Volumes/comic/JDown/[堀部健和×仁木克人] 魔王城、空き部屋あります！/Mao_Jo_Aki_Heya_Arimasu_v01.zip" "/Volumes/comic/JDown/[宵町めめ] 十五魔女の最後の旅/Jugo_majo_no_saigo_no_tabi_v01.zip" "/Volumes/comic/JDown/[日向ほこり] 薬師少女と嵐鷲/Yakusushi_Shojo_to_v01-03.zip" "/Volumes/comic/JDown/[朱里雀×さおとめあげは] 淫魔ですが、堅物騎士団長の妄想だけでお腹いっぱいです！/Inmadesuga_Katabutsu_Kishi_v01s.zip" "/Volumes/comic/JDown/[柾木見月×水瀬もも] 蜜檻～騎士王のいきすぎた純情～/Mitsuori_Kishio_no_ikisugita_junjo.zip" "/Volumes/comic/JDown/[杉浦志保] SILVER DIAMOND/SILVER_DIAMOND_v01-05.zip" "/Volumes/comic/JDown/[紬いろと×久川航璃×あいるむ] 拝啓見知らぬ旦那様、離婚していただきます/Haikei_Mishiranu_Danna_Sama_v01A.zip" "/Volumes/comic/JDown/[艮田竜和×坂野旭×ももちち] 獣王と薬草/Jyuo_to_Yakuso_v01A.zip" "/Volumes/comic/JDown/[臣士れい×あかほりさとる] 超世奇譚MAZE☆爆熱時空/Chosei_kidan_Maze_bakunetsu_jiku_v01-06.zip" "/Volumes/comic/JDown/[蝶野飛沫×伽月るーこ] カタブツ辺境伯は、待てをするのが難しい～なんちゃって悪役令嬢の蜜月生活～/Katabutsu-hakushaku_wa_mate.zip" "/Volumes/comic/JDown/[青日晴] 前世で死ぬほど嫌いだった王子は、私が愛さないと死ぬらしいです？/Zensei_De_Shinu_Hodo_Kiraidatta_v01-02.zip" "/Volumes/comic/JDown/[須貝あや×北山すずな] 冷徹侯爵の不器用な求愛/Reitetsu_Koshaku_No_Bukiyona_Kyuai.zip" "/Volumes/comic/JDown/[見雲のうり×さくら青嵐] 王太子妃パドマの転生医療「戦場の天使」は救国の夢を見る/Otaishihi_padoma_no_tensei_iryo_v01s.zip" "/Volumes/comic/JDown/[見雲のうり×さくら青嵐] 王太子妃パドマの転生医療「戦場の天使」は救国の夢を見る/Otaishihi_padoma_no_tensei_iryo_v02.zip" "/Volumes/comic/JDown/[見雲のうり×さくら青嵐] 王太子妃パドマの転生医療「戦場の天使」は救国の夢を見る/Otaishihi_padoma_no_tensei_iryo_v03A.zip" "/Volumes/comic/JDown/[むすあき×空埜一樹×さなだケイスイ] 勇者と呼ばれた後に　―そして無双男は家族を創る―/Yusha_to_Yobareta_Atode_Soshite_v02A.zip" "/Volumes/comic/JDown/[むすあき×空埜一樹×さなだケイスイ] 勇者と呼ばれた後に　―そして無双男は家族を創る―/Yusha_to_Yobareta_Atode_Soshite_v01A.zip"
+ 1 15 17:46:27 Pueued is now running in the background
+ 1 15 17:46:27 Group "cc_spread" already exists
+ 1 15 17:46:27  1 15 17:46:27 Error: Failed to create pid file.
+ 1 15 17:46:27  1 15 17:46:27 
+ 1 15 17:46:27  1 15 17:46:27 Caused by:
+ 1 15 17:46:27  1 15 17:46:27     Pid file already exists and another daemon seems to be running.
+ 1 15 17:46:27  1 15 17:46:27     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 17:46:27 New task added (id 89).
+ 1 15 17:46:45 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[伏瀬×戸野タエ] 転生したらスライムだった件 異聞 ～魔国暮らしのトリニティ～/Tensei_ShitaraSuraimu_Datta_v09.zip" "/Volumes/comic/JDown/[伏瀬×戸野タエ] 転生したらスライムだった件 異聞 ～魔国暮らしのトリニティ～/Tensei_ShitaraSuraimu_Datta_v08b.zip" "/Volumes/comic/JDown/[伏瀬×戸野タエ] 転生したらスライムだった件 異聞 ～魔国暮らしのトリニティ～/Tensei_ShitaraSuraimu_Datta_v07b.zip" "/Volumes/comic/JDown/[伏瀬×戸野タエ] 転生したらスライムだった件 異聞 ～魔国暮らしのトリニティ～/Tensei_Shitara_Suraimu_Datta_v01-06b.zip"
+ 1 15 17:46:45 Pueued is now running in the background
+ 1 15 17:46:45 Group "cc_spread" already exists
+ 1 15 17:46:45 New task added (id 90).
+ 1 15 17:46:45 Error: Failed to create pid file.
+ 1 15 17:46:45 
+ 1 15 17:46:45 Caused by:
+ 1 15 17:46:45     Pid file already exists and another daemon seems to be running.
+ 1 15 17:46:45     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 17:46:45  1 15 17:46:45 Error: Failed to create pid file.
+ 1 15 17:46:45  1 15 17:46:45 
+ 1 15 17:46:45  1 15 17:46:45 Caused by:
+ 1 15 17:46:45  1 15 17:46:45     Pid file already exists and another daemon seems to be running.
+ 1 15 17:46:45  1 15 17:46:45     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 17:47:05 Error: Failed to create pid file.
+ 1 15 17:47:05 
+ 1 15 17:47:05 Caused by:
+ 1 15 17:47:05     Pid file already exists and another daemon seems to be running.
+ 1 15 17:47:05     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 17:47:05 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[伏瀬×柴] 転スラ日記 転生したらスライムだった件/Tensura_Nikki_Tensei_v01-06b.zip" "/Volumes/comic/JDown/[伏瀬×柴] 転スラ日記 転生したらスライムだった件/Tensura_Nikki_Tensei_v07.zip" "/Volumes/comic/JDown/[業務用餅×六志麻あさ] 追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。/Tsuiho_sareta_chito_fuyo_majutsushi_v07.zip"
+ 1 15 17:47:05 Pueued is now running in the background
+ 1 15 17:47:05  1 15 17:47:05 Error: Failed to create pid file.
+ 1 15 17:47:05  1 15 17:47:05 
+ 1 15 17:47:05  1 15 17:47:05 Caused by:
+ 1 15 17:47:05  1 15 17:47:05     Pid file already exists and another daemon seems to be running.
+ 1 15 17:47:05  1 15 17:47:05     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 17:47:05 Group "cc_spread" already exists
+ 1 15 17:47:05 New task added (id 91).
+ 1 15 17:50:09 Error: Failed to create pid file.
+ 1 15 17:50:09 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[荒木佑輔×メソポ・たみあ] ようこそ『追放者ギルド』へ ～無能なＳランクパーティがどんどん有能な冒険者を追放するので、最弱を集めて最強ギルドを創ります～/Yokoso_tsuihosha_girudo_e_v04.zip" "/Volumes/comic/JDown/[荒木佑輔×メソポ・たみあ] ようこそ『追放者ギルド』へ ～無能なＳランクパーティがどんどん有能な冒険者を追放するので、最弱を集めて最強ギルドを創ります～/Yokoso_tsuihosha_girudo_e_v03s.zip" "/Volumes/comic/JDown/[荒木佑輔×メソポ・たみあ] ようこそ『追放者ギルド』へ ～無能なＳランクパーティがどんどん有能な冒険者を追放するので、最弱を集めて最強ギルドを創ります～/Yokoso_tsuihosha_girudo_e_v02s.zip" "/Volumes/comic/JDown/[西田拓矢×海空りく] 野球で戦争する異世界で超高校級エースが弱小国家を救うようです。/Yakyu_de_Senso_Suru_Isekai_v09.zip" "/Volumes/comic/JDown/[西田拓矢×海空りく] 野球で戦争する異世界で超高校級エースが弱小国家を救うようです。/Yakyu_de_Senso_Suru_Isekai_v08s.zip" "/Volumes/comic/JDown/[西田拓矢×海空りく] 野球で戦争する異世界で超高校級エースが弱小国家を救うようです。/Yakyu_de_Senso_Suru_Isekai_v07s.zip" "/Volumes/comic/JDown/[西田拓矢×海空りく] 野球で戦争する異世界で超高校級エースが弱小国家を救うようです。/Yakyu_de_Senso_Suru_Isekai_v04-05.zip" "/Volumes/comic/JDown/[西田拓矢×海空りく] 野球で戦争する異世界で超高校級エースが弱小国家を救うようです。/Yakyu_de_Senso_Suru_Isekai_v03.zip" "/Volumes/comic/JDown/[西田拓矢×海空りく] 野球で戦争する異世界で超高校級エースが弱小国家を救うようです。/Yakyu de Senso Suru Isekai v02.zip" "/Volumes/comic/JDown/[西田拓矢×海空りく] 野球で戦争する異世界で超高校級エースが弱小国家を救うようです。/Yakyu de Senso Suru Isekai v01.zip" "/Volumes/comic/JDown/[島知宏×音速炒飯×有都あらゆる] 追放されたお嬢様の『モンスターを食べるほど強くなる』スキルは、１食で１レベルアップする前代未聞の最強スキルでした。/Tsuiho_Sareta_Ojosama_No_Monster_v02A.zip" "/Volumes/comic/JDown/[hi8mugi] 妹に婚約者を譲れと言われました　最強の竜に気に入られてまさかの王国乗っ取り？/Imoto_ni_Konyakushao_Yuzure_to_v03-07A.zip" "/Volumes/comic/JDown/[hi8mugi] 妹に婚約者を譲れと言われました　最強の竜に気に入られてまさかの王国乗っ取り？/Imoto_ni_Konyakushao_Yuzure_to_v08A.zip" "/Volumes/comic/JDown/[hi8mugi] 妹に婚約者を譲れと言われました　最強の竜に気に入られてまさかの王国乗っ取り？/Imoto ni Konyakushao Yuzure to v02.zip" "/Volumes/comic/JDown/[hi8mugi] 妹に婚約者を譲れと言われました　最強の竜に気に入られてまさかの王国乗っ取り？/Imoto ni Kon'yakusha o Yuzure v01.zip"
+ 1 15 17:50:09 
+ 1 15 17:50:09 Caused by:
+ 1 15 17:50:09     Pid file already exists and another daemon seems to be running.
+ 1 15 17:50:09     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 17:50:09 Pueued is now running in the background
+ 1 15 17:50:09 Group "cc_spread" already exists
+ 1 15 17:50:09 New task added (id 137).
+ 1 15 17:50:09  1 15 17:50:09 Error: Failed to create pid file.
+ 1 15 17:50:09  1 15 17:50:09 
+ 1 15 17:50:09  1 15 17:50:09 Caused by:
+ 1 15 17:50:09  1 15 17:50:09     Pid file already exists and another daemon seems to be running.
+ 1 15 17:50:09  1 15 17:50:09     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 17:52:16 1 15 17:52:16 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[hi8mugi] 妹に婚約者を譲れと言われました　最強の竜に気に入られてまさかの王国乗っ取り？/Imtofiansymashita_01.rar"
+ Error: Failed to create pid file.
+ 1 15 17:52:16 
+ 1 15 17:52:16 Caused by:
+ 1 15 17:52:16     Pid file already exists and another daemon seems to be running.
+ 1 15 17:52:16     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 17:52:16 Pueued is now running in the background
+ 1 15 17:52:16 Group "cc_spread" already exists
+ 1 15 17:52:16 New task added (id 152).
+ 1 15 17:52:16  1 15 17:52:16 Error: Failed to create pid file.
+ 1 15 17:52:16  1 15 17:52:16 
+ 1 15 17:52:16  1 15 17:52:16 Caused by:
+ 1 15 17:52:16  1 15 17:52:16     Pid file already exists and another daemon seems to be running.
+ 1 15 17:52:16  1 15 17:52:16     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 17:52:44 Error: Failed to create pid file.
+ 1 15 17:52:44 
+ 1 15 17:52:44 Caused by:
+ 1 15 17:52:44     Pid file already exists and another daemon seems to be running.
+ 1 15 17:52:44     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 17:52:44 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[nishi×さき×増田メグミ] 重装令嬢モアネット/Juso_Reijo_Moa_Net_v01A.zip" "/Volumes/comic/JDown/[宇田川うた子] 私はいったい何役令嬢なんでしょう！？～大変恐れ入りますが、営業スキルで異世界攻略いたします～/Watashi_wa_ittai_Reijonandeshiyo_v01A.zip" "/Volumes/comic/JDown/[川瀬あや] 悪役令嬢は2度死ぬ/Akuyaku_reijo_wa_nido_shinu_v01-02A.zip" "/Volumes/comic/JDown/[蒼乃白兎×三川彡] その無能、実は世界最強の魔法使い/Sono_muno_jitsu_wa_sekai_saikyo_v06.zip" "/Volumes/comic/JDown/[佐藤夕子×篠浦知螺] 黒猫ニャンゴの冒険/Kuro_Neko_Nyango_No_Boken_v01s.zip" "/Volumes/comic/JDown/[佐藤夕子×篠浦知螺] 黒猫ニャンゴの冒険/Kuro_Neko_Nyango_No_Boken_v02.zip" "/Volumes/comic/JDown/[雪あられ×ツカサ] 剣帝学院の魔眼賢者/Ken_Mikado_Gakuin_No_Ma_Me_Kenja_v07.zip" "/Volumes/comic/JDown/[雪あられ×ツカサ] 剣帝学院の魔眼賢者/Ken_Mikado_Gakuin_No_Ma_Me_Kenja_v06s.zip" "/Volumes/comic/JDown/[雪あられ×ツカサ] 剣帝学院の魔眼賢者/Ken_Mikado_Gakuin_No_Ma_Me_Kenja_v05s.zip" "/Volumes/comic/JDown/[雪あられ×ツカサ] 剣帝学院の魔眼賢者/Ken_Mikado_Gakuin_No_Ma_Me_Kenja_v01-04.zip" "/Volumes/comic/JDown/[餡乃雲×五篠さやか] 商社マンの異世界サバイバル ～絶対人とはつるまねえ～/Shoshaman_no_Isekai_Sabaibaru_v01-05A.zip" "/Volumes/comic/JDown/[餡乃雲×五篠さやか] 商社マンの異世界サバイバル ～絶対人とはつるまねえ～/Shoshaman_no_Isekai_Sabaibaru_v06A.zip" "/Volumes/comic/JDown/[宇宙くらげ] せっかく公爵令嬢に転生したんだから長生きしたい/Sekkaku_Koshaku_Reijo_Ni_Tensei_v01.zip" "/Volumes/comic/JDown/[マサイ×わた・るぅー] 伝説の俺/Densetsu_No_Ore_v01.zip"
+ 1 15 17:52:44 Pueued is now running in the background
+ 1 15 17:52:44 Group "cc_spread" already exists
+ 1 15 17:52:44 New task added (id 154).
+ 1 15 17:52:44  1 15 17:52:44 Error: Failed to create pid file.
+ 1 15 17:52:44  1 15 17:52:44 
+ 1 15 17:52:44  1 15 17:52:44 Caused by:
+ 1 15 17:52:44  1 15 17:52:44     Pid file already exists and another daemon seems to be running.
+ 1 15 17:52:44  1 15 17:52:44     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 18:12:57 Error: Failed to create pid file.
+ 1 15 18:12:57 
+ 1 15 18:12:57 Caused by:
+ 1 15 18:12:57     Pid file already exists and another daemon seems to be running.
+ 1 15 18:12:57     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 18:12:57 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[春原ロビンソン×佐藤祐紀×さいとうなおき] スギナミ討伐公務員～異世界勤務の人々～/Suginami_Tobatsu_Komuin_Danjon_v02-04s.zip" "/Volumes/comic/JDown/[春原ロビンソン×佐藤祐紀×さいとうなおき] スギナミ討伐公務員～異世界勤務の人々～/Suginami Tobatsu Komuin Danjon v01b.zip"
+ 1 15 18:12:57 Pueued is now running in the background
+ 1 15 18:12:57 Group "cc_spread" already exists
+ 1 15 18:12:57 New task added (id 169).
+ 1 15 18:12:57  1 15 18:12:57 Error: Failed to create pid file.
+ 1 15 18:12:57  1 15 18:12:57 
+ 1 15 18:12:57  1 15 18:12:57 Caused by:
+ 1 15 18:12:57  1 15 18:12:57     Pid file already exists and another daemon seems to be running.
+ 1 15 18:12:57  1 15 18:12:57     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 18:13:31 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[横田卓馬] すべての人類を破壊する。それらは再生できない。/Subete_no_Jinrui_o_Hakai_Suru_v14s.zip"
+ 1 15 18:13:31 Pueued is now running in the background
+ 1 15 18:13:31 Group "cc_spread" already exists
+ 1 15 18:13:31 New task added (id 172).
+ 1 15 18:13:31 Error: Failed to create pid file.
+ 1 15 18:13:31 
+ 1 15 18:13:31 1 15 18:13:31  1 15 18:13:31 Error: Failed to create pid file.
+ Caused by:
+ 1 15 18:13:31  1 15 18:13:31 
+ 1 15 18:13:31     Pid file already exists and another daemon seems to be running.
+ 1 15 18:13:31     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 18:13:31  1 15 18:13:31 Caused by:
+ 1 15 18:13:31  1 15 18:13:31     Pid file already exists and another daemon seems to be running.
+ 1 15 18:13:31  1 15 18:13:31     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 18:16:42 Error: Failed to create pid file.
+ 1 15 18:16:42 
+ 1 15 18:16:42 Caused by:
+ 1 15 18:16:42     Pid file already exists and another daemon seems to be running.
+ 1 15 18:16:42     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 18:16:42 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[片倉みっき] 彼方よりの花嫁/Kanata_yori_No_Hanayome_v02-04.zip"
+ 1 15 18:16:42 Pueued is now running in the background
+ 1 15 18:16:42 Group "cc_spread" already exists
+ 1 15 18:16:42  1 15 18:16:42 Error: Failed to create pid file.
+ 1 15 18:16:42  1 15 18:16:42 
+ 1 15 18:16:42  1 15 18:16:42 Caused by:
+ 1 15 18:16:42  1 15 18:16:42     Pid file already exists and another daemon seems to be running.
+ 1 15 18:16:42  1 15 18:16:42     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 18:16:42 New task added (id 174).
+ 1 15 18:17:31 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[酒井ゆかり] 引きこもり姫と毒舌騎士様/Hikikomori_Hime_to_Dokuzetsu_v02.zip" "/Volumes/comic/JDown/[酒井ゆかり] 引きこもり姫と毒舌騎士様/Hikikomori_Hime_to_Dokuzetsu_v01.zip" "/Volumes/comic/JDown/[河原シノ] 女王錬金術師と下僕弟子/Jou_Renkinjutsu_Shi_to_Geboku_Deshi_v01.zip" "/Volumes/comic/JDown/[河原シノ] 女王錬金術師と下僕弟子/Jou_Renkinjutsu_Shi_to_Geboku_Deshi_v02.zip" "/Volumes/comic/JDown/[森屋はる] ガチ恋魔王様/Gachikoi_maosama_v01s.zip"
+ 1 15 18:17:31 Pueued is now running in the background
+ 1 15 18:17:31 Error: Failed to create pid file.
+ 1 15 18:17:31 
+ 1 15 18:17:31 Caused by:
+ 1 15 18:17:31     Pid file already exists and another daemon seems to be running.
+ 1 15 18:17:31     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 18:17:31  1 15 18:17:31 Error: Failed to create pid file.
+ 1 15 18:17:31  1 15 18:17:31 
+ 1 15 18:17:31  1 15 18:17:31 Caused by:
+ 1 15 18:17:31  1 15 18:17:31     Pid file already exists and another daemon seems to be running.
+ 1 15 18:17:31  1 15 18:17:31     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 18:17:31 Group "cc_spread" already exists
+ 1 15 18:17:31 New task added (id 176).
+ 1 15 18:17:47 Error: Failed to create pid file.
+ 1 15 18:17:47 
+ 1 15 18:17:47 Caused by:
+ 1 15 18:17:47     Pid file already exists and another daemon seems to be running.
+ 1 15 18:17:47     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 18:17:47 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[小澤ゆいな×インバーターエアコン] 極めた薬師は聖女の魔法にも負けません～コスパ悪いとパーティ追放されたけど、事実は逆だったようです～（コミック）/Kiwameta_kusushi_wa_seijo_no_v01-02s.zip" "/Volumes/comic/JDown/[小澤ゆいな×インバーターエアコン] 極めた薬師は聖女の魔法にも負けません～コスパ悪いとパーティ追放されたけど、事実は逆だったようです～（コミック）/Kiwameta_kusushi_wa_seijo_no_v03-04s.zip" "/Volumes/comic/JDown/[小澤ゆいな×インバーターエアコン] 極めた薬師は聖女の魔法にも負けません～コスパ悪いとパーティ追放されたけど、事実は逆だったようです～（コミック）/Kiwameta_kusushi_wa_seijo_no_v05s.zip"
+ 1 15 18:17:47 Pueued is now running in the background
+ 1 15 18:17:47 Group "cc_spread" already exists
+ 1 15 18:17:47  1 15 18:17:47 Error: Failed to create pid file.
+ 1 15 18:17:47  1 15 18:17:47 
+ 1 15 18:17:47  1 15 18:17:47 Caused by:
+ 1 15 18:17:47  1 15 18:17:47     Pid file already exists and another daemon seems to be running.
+ 1 15 18:17:47  1 15 18:17:47     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 15 18:17:47 New task added (id 182).
+ 1 16 00:51:03 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[鈴華×香月美夜] 本好きの下剋上 第二部 本のためなら巫女になる！/Hon_no_Tame_Nara_Miko_ni_Naru_v01-08b.zip" "/Volumes/comic/JDown/[鈴華×香月美夜] 本好きの下剋上 第二部 本のためなら巫女になる！/Hon_no_Tame_Nara_Miko_ni_Naru_v09-10A.zip"
+ 1 16 00:51:03 Error: Failed to create pid file.
+ 1 16 00:51:03 Pueued is now running in the background
+ 1 16 00:51:03 Group "cc_spread" already exists
+ 1 16 00:51:03 New task added (id 186).
+ 1 16 00:51:03 
+ 1 16 00:51:03 Caused by:
+ 1 16 00:51:03     Pid file already exists and another daemon seems to be running.
+ 1 16 00:51:03     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 00:51:03  1 16 00:51:03 Error: Failed to create pid file.
+ 1 16 00:51:03  1 16 00:51:03 
+ 1 16 00:51:03  1 16 00:51:03 Caused by:
+ 1 16 00:51:03  1 16 00:51:03     Pid file already exists and another daemon seems to be running.
+ 1 16 00:51:03  1 16 00:51:03     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 00:52:31 1 16 00:52:31 Error: Failed to create pid file.
+ 1 16 00:52:31 
+ 1 16 00:52:31 Caused by:
+ 1 16 00:52:31     Pid file already exists and another daemon seems to be running.
+ 1 16 00:52:31     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[柳内たくみ×竿尾悟] ゲート 自衛隊彼の地にて、斯く戦えり/Gate_Jietai_Tatakeri_v24b.zip" "/Volumes/comic/JDown/[柳内たくみ×竿尾悟] ゲート 自衛隊彼の地にて、斯く戦えり/Gate_Jietai_Tatakeri_v23b.zip" "/Volumes/comic/JDown/[柳内たくみ×竿尾悟] ゲート 自衛隊彼の地にて、斯く戦えり/Gate_Jietai_Tatakeri_v22.zip" "/Volumes/comic/JDown/[柳内たくみ×竿尾悟] ゲート 自衛隊彼の地にて、斯く戦えり/Gate_Jietai_Tatakeri_v18-21b.zip" "/Volumes/comic/JDown/[柳内たくみ×竿尾悟] ゲート 自衛隊彼の地にて、斯く戦えり/Gate Jietai Tatakeri v17b.zip" "/Volumes/comic/JDown/[柳内たくみ×竿尾悟] ゲート 自衛隊彼の地にて、斯く戦えり/Gate Jietai Tatakeri v16.zip" "/Volumes/comic/JDown/[柳内たくみ×竿尾悟] ゲート 自衛隊彼の地にて、斯く戦えり/Gate Jietai Tatakeri v15.zip" "/Volumes/comic/JDown/[柳内たくみ×竿尾悟] ゲート 自衛隊彼の地にて、斯く戦えり/Gate Jietai Tatakeri v14b.zip" "/Volumes/comic/JDown/[柳内たくみ×竿尾悟] ゲート 自衛隊彼の地にて、斯く戦えり/Gate Jietai Tatakeri v13.zip" "/Volumes/comic/JDown/[柳内たくみ×竿尾悟] ゲート 自衛隊彼の地にて、斯く戦えり/Gate Jietai Tatakeri v12.zip" "/Volumes/comic/JDown/[柳内たくみ×竿尾悟] ゲート 自衛隊彼の地にて、斯く戦えり/Gate Jietai Tatakeri v11.zip" "/Volumes/comic/JDown/[柳内たくみ×竿尾悟] ゲート 自衛隊彼の地にて、斯く戦えり/Gate Jietai Tatakeri v10.zip" "/Volumes/comic/JDown/[柳内たくみ×竿尾悟] ゲート 自衛隊彼の地にて、斯く戦えり/Gate Jietai Tatakeri v09.zip" "/Volumes/comic/JDown/[柳内たくみ×竿尾悟] ゲート 自衛隊彼の地にて、斯く戦えり/Gate Jietai Tatakeri v08.zip" "/Volumes/comic/JDown/[柳内たくみ×竿尾悟] ゲート 自衛隊彼の地にて、斯く戦えり/Gate Jietai Tatakeri v07.zip" "/Volumes/comic/JDown/[柳内たくみ×竿尾悟] ゲート 自衛隊彼の地にて、斯く戦えり/Gate Jietai Tatakeri v06.zip" "/Volumes/comic/JDown/[柳内たくみ×竿尾悟] ゲート 自衛隊彼の地にて、斯く戦えり/Gate Jietai Tatakeri v05.zip" "/Volumes/comic/JDown/[柳内たくみ×竿尾悟] ゲート 自衛隊彼の地にて、斯く戦えり/Gate Jietai Tatakeri v04.zip" "/Volumes/comic/JDown/[柳内たくみ×竿尾悟] ゲート 自衛隊彼の地にて、斯く戦えり/Gate Jietai Tatakeri v03.zip" "/Volumes/comic/JDown/[柳内たくみ×竿尾悟] ゲート 自衛隊彼の地にて、斯く戦えり/Gate Jietai Tatakeri v02.zip" "/Volumes/comic/JDown/[柳内たくみ×竿尾悟] ゲート 自衛隊彼の地にて、斯く戦えり/Gate Jietai Tatakeri v01.zip"
+ 1 16 00:52:31 Pueued is now running in the background
+ 1 16 00:52:31 Group "cc_spread" already exists
+ 1 16 00:52:31  1 16 00:52:31 Error: Failed to create pid file.
+ 1 16 00:52:31  1 16 00:52:31 
+ 1 16 00:52:31  1 16 00:52:31 Caused by:
+ 1 16 00:52:31  1 16 00:52:31     Pid file already exists and another daemon seems to be running.
+ 1 16 00:52:31  1 16 00:52:31     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 00:52:31 New task added (id 189).
+ 1 16 00:53:03 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[板垣恵介×夢枕獏] 餓狼伝 全25巻/Garouden v21-25.zip" "/Volumes/comic/JDown/[板垣恵介×夢枕獏] 餓狼伝 全25巻/Garouden v16-20.zip" "/Volumes/comic/JDown/[板垣恵介×夢枕獏] 餓狼伝 全25巻/Garouden v11-15.zip" "/Volumes/comic/JDown/[板垣恵介×夢枕獏] 餓狼伝 全25巻/Garouden v06-10.zip" "/Volumes/comic/JDown/[板垣恵介×夢枕獏] 餓狼伝 全25巻/Garouden v01-05.zip"
+ 1 16 00:53:03 Pueued is now running in the background
+ 1 16 00:53:03 Group "cc_spread" already exists
+ 1 16 00:53:03 New task added (id 211).
+ 1 16 00:53:03 Error: Failed to create pid file.
+ 1 16 00:53:03 
+ 1 16 00:53:03 Caused by:
+ 1 16 00:53:03     Pid file already exists and another daemon seems to be running.
+ 1 16 00:53:03     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 00:53:03  1 16 00:53:03 Error: Failed to create pid file.
+ 1 16 00:53:03  1 16 00:53:03 
+ 1 16 00:53:03  1 16 00:53:03 Caused by:
+ 1 16 00:53:03  1 16 00:53:03     Pid file already exists and another daemon seems to be running.
+ 1 16 00:53:03  1 16 00:53:03     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 00:54:19 Error: Failed to create pid file.
+ 1 16 00:54:19 
+ 1 16 00:54:19 Caused by:
+ 1 16 00:54:19     Pid file already exists and another daemon seems to be running.
+ 1 16 00:54:19     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 00:54:19 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[板垣恵介] バキ BAKI 全31巻/Baki_v01-05.rar" "/Volumes/comic/JDown/[板垣恵介] バキ BAKI 全31巻/Baki_v26-31e.rar" "/Volumes/comic/JDown/[板垣恵介] バキ BAKI 全31巻/Baki_v21-25.rar" "/Volumes/comic/JDown/[板垣恵介] バキ BAKI 全31巻/Baki_v11-15.rar" "/Volumes/comic/JDown/[板垣恵介] バキ BAKI 全31巻/Baki_v06-10.rar" "/Volumes/comic/JDown/[板垣恵介] バキ BAKI 全31巻/Baki_v16-20.rar"
+ 1 16 00:54:19 Pueued is now running in the background
+ 1 16 00:54:19 Group "cc_spread" already exists
+ 1 16 00:54:19  1 16 00:54:19 Error: Failed to create pid file.
+ 1 16 00:54:19  1 16 00:54:19 
+ 1 16 00:54:19  1 16 00:54:19 Caused by:
+ 1 16 00:54:19  1 16 00:54:19     Pid file already exists and another daemon seems to be running.
+ 1 16 00:54:19  1 16 00:54:19     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 00:54:19 New task added (id 217).
+ 1 16 00:54:22 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[板垣恵介] バキ BAKI 全31巻/(一般コミック) [板垣恵介] バキ BAKI 特別編 SAGA.zip"
+ 1 16 00:54:22 Pueued is now running in the background
+ 1 16 00:54:22 Group "cc_spread" already exists
+ 1 16 00:54:22 Error: Failed to create pid file.
+ 1 16 00:54:22 
+ 1 16 00:54:22 Caused by:
+ 1 16 00:54:22     Pid file already exists and another daemon seems to be running.
+ 1 16 00:54:22     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 00:54:22  1 16 00:54:22 Error: Failed to create pid file.
+ 1 16 00:54:22  1 16 00:54:22 
+ 1 16 00:54:22  1 16 00:54:22 Caused by:
+ 1 16 00:54:22  1 16 00:54:22     Pid file already exists and another daemon seems to be running.
+ 1 16 00:54:22  1 16 00:54:22     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 00:54:22 New task added (id 218).
+ 1 16 00:55:15 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[波野涼×香月美夜×椎名優] 本好きの下剋上 第三部「領地に本を広げよう！/Honzuki_no_Gekokujo_3_v07.zip" "/Volumes/comic/JDown/[波野涼×香月美夜×椎名優] 本好きの下剋上 第三部「領地に本を広げよう！/Honzuki_no_Gekokujo_3_v01-06b.zip" "/Volumes/comic/JDown/[田口ケンジ] 異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～/Isekai_One_Turn_Kill_Neesan_Ane_v12.zip" "/Volumes/comic/JDown/[田口ケンジ] 異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～/Isekai_One_Turn_Kill_Neesan_Ane_v11.zip" "/Volumes/comic/JDown/[田口ケンジ] 異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～/Isekai_One_Turn_Kill_Neesan_Ane_v09-10.zip" "/Volumes/comic/JDown/[田口ケンジ] 異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～/Isekai_One_Turn_Kill_Neesan_Ane_v04-08.zip" "/Volumes/comic/JDown/[田口ケンジ] 異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～/Isekai_One_Turn_Kill_Neesan_Ane_v02-03.zip" "/Volumes/comic/JDown/[大森藤ノ×矢町大成] ダンジョンに出会いを求めるのは間違っているだろうかⅡ/Danjon_ni_Deai_o_Motomeru_Nowa_v05.zip" "/Volumes/comic/JDown/[大森藤ノ×矢町大成] ダンジョンに出会いを求めるのは間違っているだろうかⅡ/Danjon_ni_Deai_o_Motomeru_Nowa_v03-04.zip" "/Volumes/comic/JDown/[大森藤ノ×矢町大成] ダンジョンに出会いを求めるのは間違っているだろうかⅡ/Danjon_ni_Deai_o_Motomeru_Nowa_v01-02.zip" "/Volumes/comic/JDown/[大森藤ノ×桃山ひなせ] ダンジョンに出会いを求めるのは間違っているだろうか ファミリアクロニクル episodeフレイヤ/Danjon_ni_deai_Episode_fureiya_v04.zip" "/Volumes/comic/JDown/[大森藤ノ×桃山ひなせ] ダンジョンに出会いを求めるのは間違っているだろうか ファミリアクロニクル episodeフレイヤ/Danjon_ni_deai_Episode_fureiya_v01-03.zip" "/Volumes/comic/JDown/[大森藤ノ×桃山ひなせ] ダンジョンに出会いを求めるのは間違っているだろうか ファミリアクロニクル episode リュー 全06巻/Danjon ni Deai episode v06b.zip" "/Volumes/comic/JDown/[大森藤ノ×桃山ひなせ] ダンジョンに出会いを求めるのは間違っているだろうか ファミリアクロニクル episode リュー 全06巻/Danjon ni Deai episode v05.zip" "/Volumes/comic/JDown/[大森藤ノ×桃山ひなせ] ダンジョンに出会いを求めるのは間違っているだろうか ファミリアクロニクル episode リュー 全06巻/Danjon_ni_Deai_episode_v04.zip" "/Volumes/comic/JDown/[大森藤ノ×桃山ひなせ] ダンジョンに出会いを求めるのは間違っているだろうか ファミリアクロニクル episode リュー 全06巻/Danjon ni Deai episode v02-03.zip" "/Volumes/comic/JDown/[大森藤ノ×桃山ひなせ] ダンジョンに出会いを求めるのは間違っているだろうか ファミリアクロニクル episode リュー 全06巻/Danjon ni Deai episode v01.zip"
+ 1 16 00:55:15 Pueued is now running in the background
+ 1 16 00:55:15 Group "cc_spread" already exists
+ 1 16 00:55:15 Error: Failed to create pid file.
+ 1 16 00:55:15 
+ 1 16 00:55:15 Caused by:
+ 1 16 00:55:15     Pid file already exists and another daemon seems to be running.
+ 1 16 00:55:15 1 16 00:55:15  1 16 00:55:15 Error: Failed to create pid file.
+     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 00:55:15  1 16 00:55:15 
+ 1 16 00:55:15  1 16 00:55:15 Caused by:
+ 1 16 00:55:15  1 16 00:55:15     Pid file already exists and another daemon seems to be running.
+ 1 16 00:55:15  1 16 00:55:15     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 00:55:15 New task added (id 226).
+ 1 16 00:56:21 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[大森藤ノ×はいむらきよたか] ダンジョンに出会いを求めるのは間違っているだろうか外伝　ソード・オラトリア/Dungeon Sword Oratoria v12.zip" "/Volumes/comic/JDown/[大森藤ノ×はいむらきよたか] ダンジョンに出会いを求めるのは間違っているだろうか外伝　ソード・オラトリア/Dungeon Sword Oratoria v11.zip" "/Volumes/comic/JDown/[大森藤ノ×はいむらきよたか] ダンジョンに出会いを求めるのは間違っているだろうか外伝　ソード・オラトリア/Dungeon Sword Oratoria v09.zip" "/Volumes/comic/JDown/[大森藤ノ×はいむらきよたか] ダンジョンに出会いを求めるのは間違っているだろうか外伝　ソード・オラトリア/Dungeon Sword Oratoria v08.zip" "/Volumes/comic/JDown/[大森藤ノ×はいむらきよたか] ダンジョンに出会いを求めるのは間違っているだろうか外伝　ソード・オラトリア/Dungeon Sword Oratoria v07.zip" "/Volumes/comic/JDown/[大森藤ノ×はいむらきよたか] ダンジョンに出会いを求めるのは間違っているだろうか外伝　ソード・オラトリア/Dungeon_Sword_Oratoria_v06.zip" "/Volumes/comic/JDown/[大森藤ノ×はいむらきよたか] ダンジョンに出会いを求めるのは間違っているだろうか外伝　ソード・オラトリア/Dungeon Sword Oratoria v05.zip" "/Volumes/comic/JDown/[大森藤ノ×はいむらきよたか] ダンジョンに出会いを求めるのは間違っているだろうか外伝　ソード・オラトリア/Dungeon Sword Oratoria v04.zip" "/Volumes/comic/JDown/[大森藤ノ×はいむらきよたか] ダンジョンに出会いを求めるのは間違っているだろうか外伝　ソード・オラトリア/Dungeon Sword Oratoria v02-03.zip" "/Volumes/comic/JDown/[大森藤ノ×はいむらきよたか] ダンジョンに出会いを求めるのは間違っているだろうか外伝　ソード・オラトリア/Dungeon Sword Oratoria v01.zip" "/Volumes/comic/JDown/[大森藤ノ×はいむらきよたか] ダンジョンに出会いを求めるのは間違っているだろうか外伝　ソード・オラトリア/Dungeon Sword Oratoria v13b.zip" "/Volumes/comic/JDown/[大森藤ノ×はいむらきよたか] ダンジョンに出会いを求めるのは間違っているだろうか外伝　ソード・オラトリア/Dungeon Sword Oratoria v18.zip" "/Volumes/comic/JDown/[大森藤ノ×はいむらきよたか] ダンジョンに出会いを求めるのは間違っているだろうか外伝　ソード・オラトリア/Dungeon Sword Oratoria v16.zip" "/Volumes/comic/JDown/[大森藤ノ×はいむらきよたか] ダンジョンに出会いを求めるのは間違っているだろうか外伝　ソード・オラトリア/Dungeon Sword Oratoria v17.zip" "/Volumes/comic/JDown/[大森藤ノ×はいむらきよたか] ダンジョンに出会いを求めるのは間違っているだろうか外伝　ソード・オラトリア/Dungeon Sword Oratoria v15.zip" "/Volumes/comic/JDown/[大森藤ノ×はいむらきよたか] ダンジョンに出会いを求めるのは間違っているだろうか外伝　ソード・オラトリア/Dungeon Sword Oratoria v14.zip" "/Volumes/comic/JDown/[大森藤ノ×はいむらきよたか] ダンジョンに出会いを求めるのは間違っているだろうか外伝　ソード・オラトリア/Dungeon_Sword_Oratoria_v19-24b.zip" "/Volumes/comic/JDown/[大森藤ノ×はいむらきよたか] ダンジョンに出会いを求めるのは間違っているだろうか外伝　ソード・オラトリア/Dungeon_Sword_Oratoria_v25.zip" "/Volumes/comic/JDown/[大森藤ノ×はいむらきよたか] ダンジョンに出会いを求めるのは間違っているだろうか外伝　ソード・オラトリア/Dungeon_Sword_Oratoria_v26.zip"
+ 1 16 00:56:21 Pueued is now running in the background
+ 1 16 00:56:21 Group "cc_spread" already exists
+ 1 16 00:56:21 Error: Failed to create pid file.
+ 1 16 00:56:21 
+ 1 16 00:56:21 Caused by:
+ 1 16 00:56:21     Pid file already exists and another daemon seems to be running.
+ 1 16 00:56:21     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 00:56:21  1 16 00:56:21 Error: Failed to create pid file.
+ 1 16 00:56:21  1 16 00:56:21 
+ 1 16 00:56:21  1 16 00:56:21 Caused by:
+ 1 16 00:56:21  1 16 00:56:21     Pid file already exists and another daemon seems to be running.
+ 1 16 00:56:21  1 16 00:56:21     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 00:56:21 New task added (id 244).
+ 1 16 00:58:44 Error: Failed to create pid file.
+ 1 16 00:58:44 
+ 1 16 00:58:44 Caused by:
+ 1 16 00:58:44     Pid file already exists and another daemon seems to be running.
+ 1 16 00:58:44     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 00:58:44 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/Nobunaga_no_Chef_v01-05.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/[西村ミツル×梶川卓郎] 信長のシェフ 第06巻.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/[西村ミツル×梶川卓郎] 信長のシェフ 第07巻.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/[西村ミツル×梶川卓郎] 信長のシェフ 第08巻.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/[西村ミツル×梶川卓郎] 信長のシェフ 第09巻.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/Nobunaga_no_Chef_v10.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/Nobunaga_no_Chef_v11.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/Nobunaga_no_Chef_v12.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/Nobunaga_no_Chef_v13.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/Nobunaga_no_Chef_v14.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/Nobunaga Chef v15.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/Nobunaga Chef v16.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/Nobunaga Chef v17.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/Nobunaga Chef v18.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/Nobunaga Chef v19b.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/Nobunaga Chef v20.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/Nobunaga Chef v21.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/Nobunaga Chef v22.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/Nobunaga Chef v23.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/Nobunaga Chef v24.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/Nobunaga Chef v25.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/Nobunaga Chef v26.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/Nobunaga_Chef_v27-34.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/Nobunaga_Chef_v35b.zip" "/Volumes/comic/JDown/[西村ミツル×梶川卓郎] 信長のシェフ/Nobunaga_Chef_v36b.zip"
+ 1 16 00:58:44 Pueued is now running in the background
+ 1 16 00:58:44 Group "cc_spread" already exists
+ 1 16 00:58:44  1 16 00:58:44 Error: Failed to create pid file.
+ 1 16 00:58:44  1 16 00:58:44 
+ 1 16 00:58:44  1 16 00:58:44 Caused by:
+ 1 16 00:58:44  1 16 00:58:44     Pid file already exists and another daemon seems to be running.
+ 1 16 00:58:44  1 16 00:58:44     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 00:58:44 New task added (id 264).
+ 1 16 00:59:48 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[西修] 魔入りました!入間くん/Mairimashita Iruma kun v01-02.zip" "/Volumes/comic/JDown/[西修] 魔入りました!入間くん/Mairimashita Iruma kun v03.zip" "/Volumes/comic/JDown/[西修] 魔入りました!入間くん/Mairimashita Iruma kun v04.zip" "/Volumes/comic/JDown/[西修] 魔入りました!入間くん/Mairimashita_Iruma_kun_v11-29b.zip" "/Volumes/comic/JDown/[西修] 魔入りました!入間くん/Mairimashita_Iruma_kun_v05-11b.zip" "/Volumes/comic/JDown/[西修] 魔入りました!入間くん/Mairimashita_Iruma_kun_v30-31.zip" "/Volumes/comic/JDown/[西修] 魔入りました!入間くん/Mairimashita_Iruma_kun_v32-33.zip"
+ 1 16 00:59:48 Error: Failed to create pid file.
+ 1 16 00:59:48 Pueued is now running in the background
+ 1 16 00:59:48 Group "cc_spread" already exists
+ 1 16 00:59:48 
+ 1 16 00:59:48 Caused by:
+ 1 16 00:59:48     Pid file already exists and another daemon seems to be running.
+ 1 16 00:59:48     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 00:59:48  1 16 00:59:48 Error: Failed to create pid file.
+ 1 16 00:59:48  1 16 00:59:48 
+ 1 16 00:59:48  1 16 00:59:48 Caused by:
+ 1 16 00:59:48  1 16 00:59:48     Pid file already exists and another daemon seems to be running.
+ 1 16 00:59:48  1 16 00:59:48     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 00:59:48 New task added (id 290).
+ 1 16 01:00:53 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[十日草輔] 王様ランキング/Osama_rankingu_v18.zip" "/Volumes/comic/JDown/[十日草輔] 王様ランキング/Osama_rankingu_v17.zip" "/Volumes/comic/JDown/[十日草輔] 王様ランキング/Osama_rankingu_v16.zip" "/Volumes/comic/JDown/[十日草輔] 王様ランキング/Osama_rankingu_v06-14b.zip" "/Volumes/comic/JDown/[十日草輔] 王様ランキング/Osama_rankingu_v01-07b.zip" "/Volumes/comic/JDown/[十日草輔] 王様ランキング/Osama_rankingu_v07-12.zip" "/Volumes/comic/JDown/[十日草輔] 王様ランキング/Osama_rankingu_v15.zip"
+ 1 16 01:00:53 Pueued is now running in the background
+ 1 16 01:00:53 Group "cc_spread" already exists
+ 1 16 01:00:53 Error: Failed to create pid file.
+ 1 16 01:00:53 
+ 1 16 01:00:53 Caused by:
+ 1 16 01:00:53     Pid file already exists and another daemon seems to be running.
+ 1 16 01:00:53 1 16 01:00:53  1 16 01:00:53 Error: Failed to create pid file.
+ 1 16 01:00:53  1 16 01:00:53 
+ 1 16 01:00:53  1 16 01:00:53 Caused by:
+ 1 16 01:00:53  1 16 01:00:53     Pid file already exists and another daemon seems to be running.
+     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 01:00:53  1 16 01:00:53     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 01:00:53 New task added (id 298).
+ 1 16 01:01:21 Error: Failed to create pid file.
+ 1 16 01:01:21 
+ 1 16 01:01:21 Caused by:
+ 1 16 01:01:21     Pid file already exists and another daemon seems to be running.
+ 1 16 01:01:21     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 01:01:21 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[七尾ナナキ] Helck ヘルク 全12巻/Helck_Shinsoban_v01-08.zip" "/Volumes/comic/JDown/[七尾ナナキ] Helck ヘルク 全12巻/Helck_Shinsoban_v09.zip" "/Volumes/comic/JDown/[七尾ナナキ] Helck ヘルク 全12巻/Helck_Shinsoban_v10.zip" "/Volumes/comic/JDown/[七尾ナナキ] Helck ヘルク 全12巻/Helck_Shinsoban_v11-12.zip" "/Volumes/comic/JDown/[香月美夜×波野涼] 本好きの下剋上～司書になるためには手段を選んでいられません～ 公式コミックアンソロジー/Honzuki no Gekokujo Koshiki Komikku Ansoroji v01-02.zip" "/Volumes/comic/JDown/[香月美夜×波野涼] 本好きの下剋上～司書になるためには手段を選んでいられません～ 公式コミックアンソロジー/Honzuki no Gekokujo Koshiki Komikku Ansoroji v03-04.zip" "/Volumes/comic/JDown/[香月美夜×波野涼] 本好きの下剋上～司書になるためには手段を選んでいられません～ 公式コミックアンソロジー/Honzuki no Gekokujo Koshiki Komikku Ansoroji v05.zip" "/Volumes/comic/JDown/[香月美夜×波野涼] 本好きの下剋上～司書になるためには手段を選んでいられません～ 公式コミックアンソロジー/Honzuki_no_Komikku_Ansoroji_v06-07.zip"
+ 1 16 01:01:21 Pueued is now running in the background
+ 1 16 01:01:21 Group "cc_spread" already exists
+ 1 16 01:01:21  1 16 01:01:21 Error: Failed to create pid file.
+ 1 16 01:01:21  1 16 01:01:21 
+ 1 16 01:01:21  1 16 01:01:21 Caused by:
+ 1 16 01:01:21  1 16 01:01:21     Pid file already exists and another daemon seems to be running.
+ 1 16 01:01:21  1 16 01:01:21     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 01:01:21 New task added (id 306).
+ 1 16 01:02:37 Error: Failed to create pid file.
+ 1 16 01:02:37 
+ 1 16 01:02:37 Caused by:
+ 1 16 01:02:37     Pid file already exists and another daemon seems to be running.
+ 1 16 01:02:37     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 01:02:37 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[栗原正尚] 神アプリ/Kami_Appli_v04-06.zip" "/Volumes/comic/JDown/[栗原正尚] 神アプリ/Kami_Appli_v07.zip" "/Volumes/comic/JDown/[栗原正尚] 神アプリ/Kami_Appli_v08.zip" "/Volumes/comic/JDown/[栗原正尚] 神アプリ/Kami Appli v09-10.zip" "/Volumes/comic/JDown/[栗原正尚] 神アプリ/Kami_Appli_v11-13.zip" "/Volumes/comic/JDown/[栗原正尚] 神アプリ/Kami Appli v01-03b.zip" "/Volumes/comic/JDown/[栗原正尚] 神アプリ/Kami Appli v11-13.zip" "/Volumes/comic/JDown/[栗原正尚] 神アプリ/Kami Appli v14.zip" "/Volumes/comic/JDown/[栗原正尚] 神アプリ/Kami Appli v15.zip" "/Volumes/comic/JDown/[栗原正尚] 神アプリ/Kami Appli v16.zip" "/Volumes/comic/JDown/[栗原正尚] 神アプリ/Kami Appli v17.zip" "/Volumes/comic/JDown/[栗原正尚] 神アプリ/Kami Appli v18.zip" "/Volumes/comic/JDown/[栗原正尚] 神アプリ/Kami Appli v19s.zip" "/Volumes/comic/JDown/[栗原正尚] 神アプリ/Kami Appli v20.zip" "/Volumes/comic/JDown/[栗原正尚] 神アプリ/Kami Appli v21.zip" "/Volumes/comic/JDown/[栗原正尚] 神アプリ/Kami Appli v22-23.zip" "/Volumes/comic/JDown/[栗原正尚] 神アプリ/Kami_Appli_v24.zip" "/Volumes/comic/JDown/[栗原正尚] 神アプリ/Kami_Appli_v25-27.zip"
+ 1 16 01:02:37 Pueued is now running in the background
+ 1 16 01:02:37 Group "cc_spread" already exists
+ 1 16 01:02:37  1 16 01:02:37 Error: Failed to create pid file.
+ 1 16 01:02:37  1 16 01:02:37 
+ 1 16 01:02:37  1 16 01:02:37 Caused by:
+ 1 16 01:02:37  1 16 01:02:37     Pid file already exists and another daemon seems to be running.
+ 1 16 01:02:37  1 16 01:02:37     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 01:02:37 New task added (id 315).
+ 1 16 01:04:11 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[渡辺静] 魔女に捧げるトリック/Tricks Dedicated v01s.zip" "/Volumes/comic/JDown/[渡辺静] 魔女に捧げるトリック/Tricks_Dedicated_v02-04s.zip" "/Volumes/comic/JDown/[香川まさひと] 前科者/Zenkamono_v01.zip" "/Volumes/comic/JDown/[香川まさひと] 前科者/Zenkamono_v02-05b.zip" "/Volumes/comic/JDown/[ユズリハ×陸奥こはる] 家が燃えて人生どうでも良くなったから、残ったなけなしの金でダークエルフの奴隷を買った。/Ie_ga_Moete_Jinsei_Dodemo_v04.zip" "/Volumes/comic/JDown/[ユズリハ×陸奥こはる] 家が燃えて人生どうでも良くなったから、残ったなけなしの金でダークエルフの奴隷を買った。/Ie_ga_Moete_Jinsei_Dodemo_v03.zip" "/Volumes/comic/JDown/[ユズリハ×陸奥こはる] 家が燃えて人生どうでも良くなったから、残ったなけなしの金でダークエルフの奴隷を買った。/Ie_ga_Moete_Jinsei_Dodemo_v01-02.zip" "/Volumes/comic/JDown/[峰崎龍之介] ダンジョン暮らしの元勇者 THE COMIC/Dungeon_KurashiYuusha_v01.zip" "/Volumes/comic/JDown/[峰崎龍之介] ダンジョン暮らしの元勇者 THE COMIC/Dungeon_KurashiYuusha_v02-06.zip" "/Volumes/comic/JDown/[中谷チカ×伏瀬×みっつばー] 転生したらスライムだった件　美食伝～ペコとリムルの料理手帖～/TenSura_Bishoku_Den_Peko_v01.zip" "/Volumes/comic/JDown/[高田裕三×伏瀬×みっつばー] 転生したらスライムだった件　番外編　～とある休暇の過ごし方～/TenSura_Bangai_Hen_To_Aru_v01.zip" "/Volumes/comic/JDown/[キョウ屋斎×苗原一] 追放されたF級軍師と見捨てられた幼女領主/Tsuiho_Sareta_F_Kyu_Gunshi_v01.zip" "/Volumes/comic/JDown/[湯土ゆず×青空あかな] 追放された公爵令嬢は、天気予報をしながら辺境の地でのんびり暮らす ～天気予報スキルを活かした追放生活の楽しみ方～（コミック）/Tsuiho_Sareta_Koshaku_Reijo_v01.zip"
+ 1 16 01:04:11 Pueued is now running in the background
+ 1 16 01:04:11 Group "cc_spread" already exists
+ 1 16 01:04:11 Error: Failed to create pid file.
+ 1 16 01:04:11 
+ 1 16 01:04:11 Caused by:
+ 1 16 01:04:11     Pid file already exists and another daemon seems to be running.
+ 1 16 01:04:11     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 01:04:11  1 16 01:04:11 Error: Failed to create pid file.
+ 1 16 01:04:11  1 16 01:04:11 
+ 1 16 01:04:11  1 16 01:04:11 Caused by:
+ 1 16 01:04:11  1 16 01:04:11     Pid file already exists and another daemon seems to be running.
+ 1 16 01:04:11  1 16 01:04:11     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 01:04:11 New task added (id 334).
+ 1 16 01:04:33 Error: Failed to create pid file.
+ 1 16 01:04:33 
+ 1 16 01:04:33 Caused by:
+ 1 16 01:04:33     Pid file already exists and another daemon seems to be running.
+ 1 16 01:04:33     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 01:04:33 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[ｔｏｕｆｕ] Ｌｖ１魔王とワンルーム勇者/Lv_1_Mao_to_Wanrumu_Yusha_v01-05b.zip" "/Volumes/comic/JDown/[ｔｏｕｆｕ] Ｌｖ１魔王とワンルーム勇者/Lv_1_Mao_to_Wanrumu_Yusha_v06b.zip" "/Volumes/comic/JDown/[ｔｏｕｆｕ] Ｌｖ１魔王とワンルーム勇者/Lv_1_Mao_to_Wanrumu_Yusha_v07-09b.zip"
+ 1 16 01:04:33 Pueued is now running in the background
+ 1 16 01:04:33 Group "cc_spread" already exists
+ 1 16 01:04:33  1 16 01:04:33 Error: Failed to create pid file.
+ 1 16 01:04:33  1 16 01:04:33 
+ 1 16 01:04:33  1 16 01:04:33 Caused by:
+ 1 16 01:04:33  1 16 01:04:33     Pid file already exists and another daemon seems to be running.
+ 1 16 01:04:33  1 16 01:04:33     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 01:04:33 New task added (id 348).
+ 1 16 01:05:13 Error: Failed to create pid file.
+ 1 16 01:05:13 
+ 1 16 01:05:13 Caused by:
+ 1 16 01:05:13     Pid file already exists and another daemon seems to be running.
+ 1 16 01:05:13     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 01:05:13 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[卓二雄作×虎戸リア] 魔石屋アレキサンドライトへようこそ ～規格外魔石で商売繁盛～/Ma_Ishiya_Alexandrite_He_v01s.zip" "/Volumes/comic/JDown/[卓二雄作×虎戸リア] 魔石屋アレキサンドライトへようこそ ～規格外魔石で商売繁盛～/Ma_Ishiya_Alexandrite_He_v02s.zip" "/Volumes/comic/JDown/[卓二雄作×虎戸リア] 魔石屋アレキサンドライトへようこそ ～規格外魔石で商売繁盛～/Ma_Ishiya_Alexandrite_He_v03s.zip" "/Volumes/comic/JDown/[澄守彩x髙田タカミ] エルディアス・ロード 女神にもらった絶対死なない究極スキルで七つのダンジョンを攻略する/Erudiasu_Rodo_Megami_ni_Moratta_v01.zip" "/Volumes/comic/JDown/[大井昌和] 異世界大奥でJKは恋をする/Isekai_ooku_de_JK_wa_koi_o_suru_v01.zip" "/Volumes/comic/JDown/[maco×鏡遊] セックス・ファンタジー/Sekkusu_fantaji_v04.zip" "/Volumes/comic/JDown/[maco×鏡遊] セックス・ファンタジー/Sekkusu_fantaji_v03s.zip" "/Volumes/comic/JDown/[maco×鏡遊] セックス・ファンタジー/Sekkusu_fantaji_v01-02.zip" "/Volumes/comic/JDown/[木野咲カズラ×徒然花] 誰かこの状況を説明してください！ ～契約から始まるウェディング～/Dareka_Kono_Jokyo_o_Setsumei_Shite_v08-09.zip" "/Volumes/comic/JDown/[木野咲カズラ×徒然花] 誰かこの状況を説明してください！ ～契約から始まるウェディング～/Dareka_Kono_Jokyo_o_Setsumei_Shite_v07.zip" "/Volumes/comic/JDown/[木野咲カズラ×徒然花] 誰かこの状況を説明してください！ ～契約から始まるウェディング～/Dareka_Kono_Jokyo_o_Setsumei_Shite_v04-06.zip" "/Volumes/comic/JDown/[木野咲カズラ×徒然花] 誰かこの状況を説明してください！ ～契約から始まるウェディング～/Dareka_Kono_Jokyo_o_Setsumei_Shite_v03.zip" "/Volumes/comic/JDown/[木野咲カズラ×徒然花] 誰かこの状況を説明してください！ ～契約から始まるウェディング～/Dareka_Kono_Jokyo_o_Setsumei_Shite_v01-02.zip" "/Volumes/comic/JDown/[絢瀬マコト×柚原テイル×Shabon] 傾国悪女のやり直し王女譚 騎士団長が不器用で離れません/Keikoku Akujo No Yarinaoshi Ojo v01.zip" "/Volumes/comic/JDown/[林田球] 大ダーク/Daidaku_v07.zip"
+ 1 16 01:05:13 Pueued is now running in the background
+ 1 16 01:05:13 Group "cc_spread" already exists
+ 1 16 01:05:13  1 16 01:05:13 Error: Failed to create pid file.
+ 1 16 01:05:13  1 16 01:05:13 
+ 1 16 01:05:13  1 16 01:05:13 Caused by:
+ 1 16 01:05:13  1 16 01:05:13     Pid file already exists and another daemon seems to be running.
+ 1 16 01:05:13  1 16 01:05:13     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 01:05:13 New task added (id 352).
+ 1 16 01:05:48 1 16 01:05:48 Error: Failed to create pid file.
+ 1 16 01:05:48 
+ 1 16 01:05:48 Caused by:
+ 1 16 01:05:48     Pid file already exists and another daemon seems to be running.
+ 1 16 01:05:48     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[西尾維新×岩崎優次] 暗号学園のいろは/Ango_Gakuen_No_Iroha_v05s.zip" "/Volumes/comic/JDown/[雪田幸路×のりしろちゃん] 気絶勇者と暗殺姫/Kizetsu Yusha to Ansatsu Hime v05.zip" "/Volumes/comic/JDown/[足高たかみ×唐辛子ひでゆ] 神童セフィリアの下剋上プログラム/ShindoSefirianoGekokujoPuroguramu v07-08.zip" "/Volumes/comic/JDown/[足高たかみ×唐辛子ひでゆ] 神童セフィリアの下剋上プログラム/ShindoSefirianoGekokujoPuroguramu_v06s.zip" "/Volumes/comic/JDown/[足高たかみ×唐辛子ひでゆ] 神童セフィリアの下剋上プログラム/ShindoSefirianoGekokujoPuroguramu_v05s.zip" "/Volumes/comic/JDown/[足高たかみ×唐辛子ひでゆ] 神童セフィリアの下剋上プログラム/Shindo Sefiria no Gekokujo Puroguramu v03s.zip" "/Volumes/comic/JDown/[足高たかみ×唐辛子ひでゆ] 神童セフィリアの下剋上プログラム/Shindo Sefiria no Gekokujo Puroguramu v02s.zip" "/Volumes/comic/JDown/[足高たかみ×唐辛子ひでゆ] 神童セフィリアの下剋上プログラム/Shindo Sefiria no Gekokujo Puroguramu v01s.zip"
+ 1 16 01:05:48 Pueued is now running in the background
+ 1 16 01:05:48 Group "cc_spread" already exists
+ 1 16 01:05:48  1 16 01:05:48 Error: Failed to create pid file.
+ 1 16 01:05:48  1 16 01:05:48 
+ 1 16 01:05:48  1 16 01:05:48 Caused by:
+ 1 16 01:05:48  1 16 01:05:48     Pid file already exists and another daemon seems to be running.
+ 1 16 01:05:48  1 16 01:05:48     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 01:05:48 New task added (id 368).
+ 1 16 01:06:35 Error: Failed to create pid file.
+ 1 16 01:06:35 
+ 1 16 01:06:35 Caused by:
+ 1 16 01:06:35     Pid file already exists and another daemon seems to be running.
+ 1 16 01:06:35     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 01:06:35 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[日田中×メアリー=ドゥ×Shabon] お局令嬢と朱夏の季節　～冷徹宰相様のお飾りの妻になったはずが、溺愛されています～/Okyoku Reijo to Ake Natsu No Ki v01.zip" "/Volumes/comic/JDown/[空野進xrikko] 転生領主の優良開拓～前世の記憶を生かしてホワイトに努めたら、有能な人材が集まりすぎました～/Tensei_Ryoshu_no_Yuryo_Kaitaku_v08.zip" "/Volumes/comic/JDown/[佐藤駿光] 水のリボルバー/Mizu_No_Revolver_v01-02s.zip" "/Volumes/comic/JDown/[猪原賽×陸井栄史×板垣恵介] バキ外伝 烈海王は異世界転生しても一向にかまわんッッ/Baki Gaiden Retsu Kaio v01-02.zip" "/Volumes/comic/JDown/[猪原賽×陸井栄史×板垣恵介] バキ外伝 烈海王は異世界転生しても一向にかまわんッッ/Baki_gaiden_retsukaiou_03w.rar" "/Volumes/comic/JDown/[猪原賽×陸井栄史×板垣恵介] バキ外伝 烈海王は異世界転生しても一向にかまわんッッ/Baki_Gaiden_Retsu_Kaio_v04.zip" "/Volumes/comic/JDown/[猪原賽×陸井栄史×板垣恵介] バキ外伝 烈海王は異世界転生しても一向にかまわんッッ/Baki Gaiden Retsu Kaio v05s.zip" "/Volumes/comic/JDown/[猪原賽×陸井栄史×板垣恵介] バキ外伝 烈海王は異世界転生しても一向にかまわんッッ/Baki_Gaiden_Retsu_Kaio_v06-09.zip" "/Volumes/comic/JDown/[槻影×蒼和伸] 天才最弱魔物使いは帰還したい/Tensai_Saijaku_Mamono_Zukai_v02s.zip" "/Volumes/comic/JDown/[裕上ハツ×Mikura] 占い師には花騎士の恋心が見えています/Uranaishi_Ni_Ha_Hana_Kishi_v01-02s.zip" "/Volumes/comic/JDown/[裕上ハツ×Mikura] 占い師には花騎士の恋心が見えています/Uranaishi_Ni_Ha_Hana_Kishi_v03s.zip" "/Volumes/comic/JDown/[ひのすばる×柚子れもん] 破滅エンドから逆行したら、二周目は何故か愛されルートでした/Hametsu_endo_kara_gyakko_shitara_v05.zip" "/Volumes/comic/JDown/[ひのすばる×柚子れもん] 破滅エンドから逆行したら、二周目は何故か愛されルートでした/Hametsu_endo_kara_gyakko_shitara_v04s.zip"
+ 1 16 01:06:35 Pueued is now running in the background
+ 1 16 01:06:35 Group "cc_spread" already exists
+ 1 16 01:06:35  1 16 01:06:35 Error: Failed to create pid file.
+ 1 16 01:06:35  1 16 01:06:35 
+ 1 16 01:06:35  1 16 01:06:35 Caused by:
+ 1 16 01:06:35  1 16 01:06:35     Pid file already exists and another daemon seems to be running.
+ 1 16 01:06:35  1 16 01:06:35     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 01:06:35 New task added (id 377).
+ 1 16 01:07:18 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[サンドロビッチ・ヤバ子×だろめおん] ケンガンオメガ/kenganomega_v20.zip" "/Volumes/comic/JDown/[小椋あん×COMICROOM] 売られた辺境伯令嬢は隣国の王太子に溺愛される/Urareta_Henkyo_Haku_Reijo_Ha_v01-02.zip" "/Volumes/comic/JDown/[小椋あん×COMICROOM] 売られた辺境伯令嬢は隣国の王太子に溺愛される/Urareta_Henkyo_Haku_Reijo_Ha_v03-04.zip" "/Volumes/comic/JDown/[小椋あん×COMICROOM] 売られた辺境伯令嬢は隣国の王太子に溺愛される/Urareta_Henkyo_Haku_Reijo_Ha_v05-06.zip" "/Volumes/comic/JDown/[影崎由那×しんこせい×福きつね] その亀、地上最強　～僕は最愛の亀と平和に暮らしたい～/Sono_Kame_Chijo_Saikyo_Boku_v01.zip" "/Volumes/comic/JDown/[我妻幸] 血を這う亡国の王女/Chi_Wo_Hau_Bokoku_No_Ojo_v01s.zip" "/Volumes/comic/JDown/[我妻幸] 血を這う亡国の王女/Chi_Wo_Hau_Bokoku_No_Ojo_v02.zip" "/Volumes/comic/JDown/[梶井スパナ] 明日もまた勇者のとなり/Ashita_mo_mata_yusha_no_tonari_v01s.zip" "/Volumes/comic/JDown/[梶井スパナ] 明日もまた勇者のとなり/Ashita_mo_mata_yusha_no_tonari_v02.zip" "/Volumes/comic/JDown/[林達永×金光鉉] ドローイング 最強漫画家はお絵描きスキルで異世界無双する！/Drawing_Saikyou_Mangaka_v09.zip"
+ 1 16 01:07:18 Pueued is now running in the background
+ 1 16 01:07:18 Group "cc_spread" already exists
+ 1 16 01:07:18 Error: Failed to create pid file.
+ 1 16 01:07:18 
+ 1 16 01:07:18 Caused by:
+ 1 16 01:07:18     Pid file already exists and another daemon seems to be running.
+ 1 16 01:07:18     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 01:07:18  1 16 01:07:18 Error: Failed to create pid file.
+ 1 16 01:07:18  1 16 01:07:18 
+ 1 16 01:07:18  1 16 01:07:18 Caused by:
+ 1 16 01:07:18  1 16 01:07:18     Pid file already exists and another daemon seems to be running.
+ 1 16 01:07:18  1 16 01:07:18     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 01:07:18 New task added (id 391).
+ 1 16 01:08:02 1 16 01:08:02 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[藍野ナナカ×先崎真琴×ちらしま] 婚約破棄されたのに元婚約者の結婚式に招待されました。断れないので兄の友人に同行してもらいます。（コミック）/KonyakuHaki_Saretanoni_Motokonyaku_v02.zip" "/Volumes/comic/JDown/[藤本れもち×唐澤和希×桑島黎音] 転生少女の履歴書/Tensei_Shojo_No_Rireki_Sho_v01.zip" "/Volumes/comic/JDown/[藤本れもち×唐澤和希×桑島黎音] 転生少女の履歴書/Tensei_Shojo_No_Rireki_Sho_v02.zip" "/Volumes/comic/JDown/[藤本れもち×唐澤和希×桑島黎音] 転生少女の履歴書/Tensei_Shojo_No_Rireki_Sho_v03.zip" "/Volumes/comic/JDown/[朝比奈希夜×榊空也] 死神の初恋～没落華族の令嬢は愛を知らない死神に嫁ぐ～/Shinigami_No_Hatsukoi_Botsuraku_v06-07.zip" "/Volumes/comic/JDown/[朝比奈希夜×榊空也] 死神の初恋～没落華族の令嬢は愛を知らない死神に嫁ぐ～/Shinigami_No_Hatsukoi_Botsuraku_v02-04s.zip" "/Volumes/comic/JDown/[朝比奈希夜×榊空也] 死神の初恋～没落華族の令嬢は愛を知らない死神に嫁ぐ～/Shinigami_No_Hatsukoi_Botsuraku_v01.zip" "/Volumes/comic/JDown/[高橋ユキ] 金欠姫君と偏屈魔導士の権謀術数錬金術/Kinketsu_Himegimi_to_Henkutsu_v01.zip" "/Volumes/comic/JDown/[片倉みっき] 彼方よりの花嫁/Kanata_yori_No_Hanayome_v01.zip" "/Volumes/comic/JDown/[水辺チカ×星彼方×アルト] 悪役令嬢みたいに断罪されそうだったけど、全力で愛されてます！　不幸な運命に「ざまぁ」しますわ！　アンソロジーコミック/Akuyaku_reijo_mitai_ni_danzai_v01.zip"
+ 1 16 01:08:02 Pueued is now running in the background
+ 1 16 01:08:02 Group "cc_spread" already exists
+ 1 16 01:08:02 New task added (id 402).
+ Error: Failed to create pid file.
+ 1 16 01:08:02 
+ 1 16 01:08:02 Caused by:
+ 1 16 01:08:02     Pid file already exists and another daemon seems to be running.
+ 1 16 01:08:02     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 01:08:02  1 16 01:08:02 Error: Failed to create pid file.
+ 1 16 01:08:02  1 16 01:08:02 
+ 1 16 01:08:02  1 16 01:08:02 Caused by:
+ 1 16 01:08:02  1 16 01:08:02     Pid file already exists and another daemon seems to be running.
+ 1 16 01:08:02  1 16 01:08:02     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 08:49:56 Error: Failed to create pid file.
+ 1 16 08:49:56 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[西修] 魔入りました!入間くん/Mairimashita_Iruma_kun_v34-35.zip"
+ 1 16 08:49:56 
+ 1 16 08:49:56 Caused by:
+ 1 16 08:49:56     Pid file already exists and another daemon seems to be running.
+ 1 16 08:49:56     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 08:49:56 Pueued is now running in the background
+ 1 16 08:49:56  1 16 08:49:56 Error: Failed to create pid file.
+ 1 16 08:49:56  1 16 08:49:56 
+ 1 16 08:49:56  1 16 08:49:56 Caused by:
+ 1 16 08:49:56  1 16 08:49:56     Pid file already exists and another daemon seems to be running.
+ 1 16 08:49:56  1 16 08:49:56     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 08:49:56 Group "cc_spread" already exists
+ 1 16 08:49:56 New task added (id 413).
+ 1 16 11:00:30 ESCAPED_ARGS_FOR_PUEUE:"/Volumes/comic/JDown/[緒方俊輔x吉岡剛] 賢者の孫/Kenja no Mago v17.zip"
+ 1 16 11:00:30 Error: Failed to create pid file.
+ 1 16 11:00:30 Pueued is now running in the background
+ 1 16 11:00:30 Group "cc_spread" already exists
+ 1 16 11:00:30 New task added (id 36).
+ 1 16 11:00:30 
+ 1 16 11:00:30 Caused by:
+ 1 16 11:00:30     Pid file already exists and another daemon seems to be running.
+ 1 16 11:00:30     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
+ 1 16 11:00:30  1 16 11:00:30 Error: Failed to create pid file.
+ 1 16 11:00:30  1 16 11:00:30 
+ 1 16 11:00:30  1 16 11:00:30 Caused by:
+ 1 16 11:00:30  1 16 11:00:30     Pid file already exists and another daemon seems to be running.
+ 1 16 11:00:30  1 16 11:00:30     Please stop the daemon beforehand or delete the file manually: "/Users/hirokazuk/Library/Application Support/pueue/pueue.pid"
