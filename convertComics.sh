@@ -22,30 +22,33 @@ IFS=$'\n'
 dirpaths=()
 for f in "$@"
 do
-  if [[ -f "$f" ]]; then
+  # if [[ -f "$f" ]]; then
 	dirpaths+=( $(dirname "$f") )
-  fi
+  # fi
 done
 
 uniq_dirpaths=$( printf "%s\n" "${dirpaths[@]}" | sort -u )
 for uniq_dirpath in ${uniq_dirpaths[@]}
 do
-  if [[ -d "$uniq_dirpath" ]]; then
-	#echo "@uniq_dirpath@:$uniq_dirpath"
+  # if [[ -d "$uniq_dirpath" ]]; then
+	  #echo "@uniq_dirpath@:$uniq_dirpath"
     BACKUP_TIMESTAMP "$uniq_dirpath"
-  fi
+  # fi
 done
 
 pueued -d
 pueue group add  cc
-pueue parallel -g cc 2
+pueue parallel -g cc 4
 for f in "$@"
 do
   if [[ -f "$f" ]]; then
-	TARGET_FILE_NAME=`basename "${f}"`
-	TARGET_DIR_PATH=`dirname "${f}"`
-	TARGET_DIR_NAME=`basename "${TARGET_DIR_PATH}"`
-	pueue add -g cc -l "${TARGET_DIR_NAME}:${TARGET_FILE_NAME}" -- "./convertComicJXL.sh '${f}'"
+  	TARGET_FILE_NAME=`basename "${f}"`
+  	TARGET_DIR_PATH=`dirname "${f}"`
+  	TARGET_DIR_NAME=`basename "${TARGET_DIR_PATH}"`
+
+    tag --remove $(tag --list -N "$f"| tr ',' '\n' | grep '^CC_'| tr '\n' ',') "$f"
+    tag --add CC_QUEUED "$f"
+  	pueue add -g cc -l "${TARGET_DIR_NAME}:${TARGET_FILE_NAME}" -- "./convertComicJXL.sh \"${f}\""
   fi
 done
 
