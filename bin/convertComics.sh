@@ -1,11 +1,14 @@
-#!/bin/bash
-cd $(dirname $0)
+#!/usr/bin/env bash
+# code: language=bash
+
+# スクリプトの実体のあるディレクトリに移動
+cd "$(dirname "$(readlink -f "$0")")" || exit
 
 #export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/opt/local/bin:/opt/local/sbin:$PATH
 #source /Users/Shared/dotfiles/.bash_profile_additional_all.sh
-
-exec 1> >(ts|tee -a /Users/Shared/dotfiles/convertComics.log)
-exec 2> >(ts|tee -a /Users/Shared/dotfiles/convertComics.log)
+mkdir ./logs
+exec 1> >(ts|tee -a ./logs/convertComics.log)
+exec 2> >(ts|tee -a ./logs/convertComics.log)
 
 # echo @@2:${@}
 #
@@ -16,9 +19,11 @@ exec 2> >(ts|tee -a /Users/Shared/dotfiles/convertComics.log)
 
 
 UUIDSUM=$$ #$(uuidgen | cksum |cut -f 1 -d " ")
-COPIED_ORIGINAL_DIRPATH=/Users/Shared/noBackup/convertComic/original
-EXTRACTED_DIRPATH=/Users/Shared/noBackup/convertComic/extracted$UUIDSUM
-ZIPED_DIRPATH=/Users/Shared/noBackup/convertComic/ziped
+COPIED_ORIGINAL_DIRPATH=./original
+mkdir ${COPIED_ORIGINAL_DIRPATH}
+EXTRACTED_DIRPATH=./extracted$UUIDSUM
+ZIPED_DIRPATH=./ziped
+mkdir ${ZIPED_DIRPATH}
 FILECOUNT=$#
 FILENAMES=
 
@@ -54,7 +59,7 @@ do
 	TARGET_FILE_NAME=`basename "${f}"`
 	TARGET_DIR_PATH=`dirname "${f}"`
 	TARGET_DIR_NAME=`basename "${TARGET_DIR_PATH}"`
-	pueue add -g cc -l "${TARGET_DIR_NAME}:${TARGET_FILE_NAME}" -- "/Users/Shared/dotfiles/convertComicInParallel.sh '${f}'"
+	pueue add -g cc -l "${TARGET_DIR_NAME}:${TARGET_FILE_NAME}" -- "convertComicInParallel.sh '${f}'"
   fi
 done
 
