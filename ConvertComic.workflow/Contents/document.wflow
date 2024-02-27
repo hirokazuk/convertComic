@@ -64,6 +64,8 @@ source /etc/profile
 source ~/.bashrc
 source ~/.bash_profile
 export LANG=ja_JP
+export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/opt/local/bin:/opt/local/sbin:$PATH
+#which brew 
 
 exec 1&gt; &gt;(ts|tee -a ~/convertComics.log)
 exec 2&gt; &gt;(ts|tee -a ~/convertComics.log)
@@ -198,7 +200,7 @@ pueue add --group cc_spread --label "ADD:FILES" -- convertComics.sh "${ESCAPED_A
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
-				<string>601.000000:614.000000</string>
+				<string>601.000000:571.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
