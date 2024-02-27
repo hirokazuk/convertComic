@@ -6,13 +6,15 @@ cd "$(dirname "$(readlink -f "$0")")" || exit
 
 export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/opt/local/bin:/opt/local/sbin:$PATH
 
-SCRIPT_DIR_PATH="$(pwd)"
+
+TEMPORARY_DIR_PATH="$(pwd)/tmp"
+mkdir -p "${TEMPORARY_DIR_PATH}"
 
 UUIDSUM=$$ #$(uuidgen | cksum |cut -f 1 -d " ")
-COPIED_ORIGINAL_DIRPATH=${SCRIPT_DIR_PATH}/original
+COPIED_ORIGINAL_DIRPATH=${TEMPORARY_DIR_PATH}/original
 mkdir -p "${COPIED_ORIGINAL_DIRPATH}"
-EXTRACTED_DIRPATH=${SCRIPT_DIR_PATH}/extracted$UUIDSUM
-CONVERTED_DIRPATH=${SCRIPT_DIR_PATH}/converted
+EXTRACTED_DIRPATH=${TEMPORARY_DIR_PATH}/extracted$UUIDSUM
+CONVERTED_DIRPATH=${TEMPORARY_DIR_PATH}/converted
 mkdir -p "${CONVERTED_DIRPATH}"
 FILECOUNT=$#
 FILENAMES=

@@ -6,9 +6,12 @@ cd "$(dirname "$(readlink -f "$0")")" || exit
 
 #export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/opt/local/bin:/opt/local/sbin:$PATH
 #source /Users/Shared/dotfiles/.bash_profile_additional_all.sh
-mkdir ./logs
-exec 1> >(ts|tee -a ./logs/convertComics.log)
-exec 2> >(ts|tee -a ./logs/convertComics.log)
+
+TEMPORARY_DIR_PATH="$(pwd)/tmp"
+mkdir -p "${TEMPORARY_DIR_PATH}"
+mkdir ${TEMPORARY_DIR_PATH}/logs
+exec 1> >(ts|tee -a ${TEMPORARY_DIR_PATH}/logs/convertComics.log)
+exec 2> >(ts|tee -a ${TEMPORARY_DIR_PATH}/logs/convertComics.log)
 
 # echo @@2:${@}
 #
