@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# code: language=bash
+
+# スクリプトの実体のあるディレクトリに移動
+cd "$(dirname "$(readlink -f "$0")")" || exit
+
+function cc_watch()  {
+  mkdir -p ./CC_RESOURCES
+  local JQ_QUERY_FILE=./CC_RESOURCES/.cc_watch.jq
+  local CSVQ_QUERY_FILE=./CC_RESOURCES/.cc_watch.sql
+
+  watch -d -n 5 -t "pueue status -g cc  -j|nkf -w --ic=utf8-mac|jq -r -f ${JQ_QUERY_FILE}|csvq -f BOX -s ${CSVQ_QUERY_FILE}"
+}
+cc_watch $@

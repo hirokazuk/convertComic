@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# code: language=bash
+
+# スクリプトの実体のあるディレクトリに移動
+cd "$(dirname "$(readlink -f "$0")")" || exit
+
+function cc_clean()  {
+  pueue clean -g cc
+  pueue clean -g cc_spread
+}
+cc_clean $@

@@ -1,0 +1,11 @@
+["STATUS","QGROUP","LABEL","ID","COMMAND"],
+(.tasks|.[]|
+    [
+        ([(.status|.Done?),.status]|.[0]|gsub("Suc.+";"S")|gsub("Run.+";"R")|gsub("Que.+";"Q")),
+        .group,
+        .label,
+        (.id|tostring),
+        .command
+    ]
+)|
+@csv

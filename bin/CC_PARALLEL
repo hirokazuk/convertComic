@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# code: language=bash
+
+# スクリプトの実体のあるディレクトリに移動
+cd "$(dirname "$(readlink -f "$0")")" || exit
+
+function cc_parallel()  {
+  pueue parallel -g cc $1
+}
+cc_parallel $@
