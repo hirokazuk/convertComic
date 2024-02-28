@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>512.1</string>
+	<string>523</string>
 	<key>AMApplicationVersion</key>
 	<string>2.10</string>
 	<key>AMDocumentVersion</key>
@@ -64,15 +64,15 @@ source /etc/profile
 source ~/.bashrc
 source ~/.bash_profile
 export LANG=ja_JP
+export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/opt/local/bin:/opt/local/sbin:$PATH
+#which brew 
 
-SCRIPT_DIR=/Users/Shared/noBackup/convertComic
-
-exec 1&gt; &gt;(ts|tee -a ${SCRIPT_DIR}/convertComics.log)
-exec 2&gt; &gt;(ts|tee -a ${SCRIPT_DIR}/convertComics.log)
+exec 1&gt; &gt;(ts|tee -a ~/convertComics.log)
+exec 2&gt; &gt;(ts|tee -a ~/convertComics.log)
 
 
 # not on pueue
-#/Users/Shared/dotfiles/convertComics.sh "$@"
+#convertComics.sh "$@"
 
 
 # on pueue
@@ -83,9 +83,8 @@ done
 echo ESCAPED_ARGS_FOR_PUEUE:$ESCAPED_ARGS_FOR_PUEUE
 pueued -d
 pueue group add cc_spread
-chmod +x ${SCRIPT_DIR}/convertComics.sh
-#pueue add --immediate --group cc_spread --label "ADD:FILES" -- ${SCRIPT_DIR}/convertComics.sh "${ESCAPED_ARGS_FOR_PUEUE}"
-pueue add --group cc_spread --label "ADD:FILES" -- ${SCRIPT_DIR}/convertComics.sh "${ESCAPED_ARGS_FOR_PUEUE}"
+#chmod +x convertComics.sh
+pueue add --group cc_spread --label "ADD:FILES" -- convertComics.sh "${ESCAPED_ARGS_FOR_PUEUE}"
 
 
 </string>
@@ -201,7 +200,7 @@ pueue add --group cc_spread --label "ADD:FILES" -- ${SCRIPT_DIR}/convertComics.s
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
-				<string>542.750000:703.000000</string>
+				<string>601.000000:571.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -233,7 +232,7 @@ pueue add --group cc_spread --label "ADD:FILES" -- ${SCRIPT_DIR}/convertComics.s
 		<key>presentationMode</key>
 		<integer>15</integer>
 		<key>processesInput</key>
-		<integer>0</integer>
+		<false/>
 		<key>serviceApplicationBundleID</key>
 		<string>com.apple.finder</string>
 		<key>serviceApplicationPath</key>
@@ -243,11 +242,11 @@ pueue add --group cc_spread --label "ADD:FILES" -- ${SCRIPT_DIR}/convertComics.s
 		<key>serviceOutputTypeIdentifier</key>
 		<string>com.apple.Automator.nothing</string>
 		<key>serviceProcessesInput</key>
-		<integer>0</integer>
+		<false/>
 		<key>systemImageName</key>
 		<string>NSActionTemplate</string>
 		<key>useAutomaticInputType</key>
-		<integer>0</integer>
+		<false/>
 		<key>workflowTypeIdentifier</key>
 		<string>com.apple.Automator.servicesMenu</string>
 	</dict>
